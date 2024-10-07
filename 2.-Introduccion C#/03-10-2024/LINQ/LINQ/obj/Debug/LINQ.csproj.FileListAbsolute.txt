@@ -1,0 +1,10 @@
+C:\Users\DIEGO\Documents\Bootcamp_TICH_SEP_2024\C_Sharp_POO\Semana_2\03-10-2024\LINQ\LINQ\bin\Debug\LINQ.exe.config
+C:\Users\DIEGO\Documents\Bootcamp_TICH_SEP_2024\C_Sharp_POO\Semana_2\03-10-2024\LINQ\LINQ\bin\Debug\LINQ.exe
+C:\Users\DIEGO\Documents\Bootcamp_TICH_SEP_2024\C_Sharp_POO\Semana_2\03-10-2024\LINQ\LINQ\bin\Debug\LINQ.pdb
+C:\Users\DIEGO\Documents\Bootcamp_TICH_SEP_2024\C_Sharp_POO\Semana_2\03-10-2024\LINQ\LINQ\bin\Debug\Newtonsoft.Json.dll
+C:\Users\DIEGO\Documents\Bootcamp_TICH_SEP_2024\C_Sharp_POO\Semana_2\03-10-2024\LINQ\LINQ\bin\Debug\Newtonsoft.Json.xml
+C:\Users\DIEGO\Documents\Bootcamp_TICH_SEP_2024\C_Sharp_POO\Semana_2\03-10-2024\LINQ\LINQ\obj\Debug\LINQ.csproj.AssemblyReference.cache
+C:\Users\DIEGO\Documents\Bootcamp_TICH_SEP_2024\C_Sharp_POO\Semana_2\03-10-2024\LINQ\LINQ\obj\Debug\LINQ.csproj.CoreCompileInputs.cache
+C:\Users\DIEGO\Documents\Bootcamp_TICH_SEP_2024\C_Sharp_POO\Semana_2\03-10-2024\LINQ\LINQ\obj\Debug\LINQ.csproj.Up2Date
+C:\Users\DIEGO\Documents\Bootcamp_TICH_SEP_2024\C_Sharp_POO\Semana_2\03-10-2024\LINQ\LINQ\obj\Debug\LINQ.exe
+C:\Users\DIEGO\Documents\Bootcamp_TICH_SEP_2024\C_Sharp_POO\Semana_2\03-10-2024\LINQ\LINQ\obj\Debug\LINQ.pdb

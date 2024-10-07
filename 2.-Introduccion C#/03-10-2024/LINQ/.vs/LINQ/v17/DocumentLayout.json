@@ -1,0 +1,117 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\DIEGO\\Documents\\Bootcamp_TICH_SEP_2024\\C_Sharp_POO\\Semana_2\\03-10-2024\\LINQ\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1CCB02EF-DA68-4BAD-80BE-362519612C35}|LINQ\\LINQ.csproj|c:\\users\\diego\\documents\\bootcamp_tich_sep_2024\\c_sharp_poo\\semana_2\\03-10-2024\\linq\\linq\\operacioneslinq.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CCB02EF-DA68-4BAD-80BE-362519612C35}|LINQ\\LINQ.csproj|solutionrelative:linq\\operacioneslinq.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CCB02EF-DA68-4BAD-80BE-362519612C35}|LINQ\\LINQ.csproj|C:\\Users\\DIEGO\\Documents\\Bootcamp_TICH_SEP_2024\\C_Sharp_POO\\Semana_2\\03-10-2024\\LINQ\\linq\\itemisr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CCB02EF-DA68-4BAD-80BE-362519612C35}|LINQ\\LINQ.csproj|solutionrelative:linq\\itemisr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CCB02EF-DA68-4BAD-80BE-362519612C35}|LINQ\\LINQ.csproj|C:\\Users\\DIEGO\\Documents\\Bootcamp_TICH_SEP_2024\\C_Sharp_POO\\Semana_2\\03-10-2024\\LINQ\\linq\\estatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CCB02EF-DA68-4BAD-80BE-362519612C35}|LINQ\\LINQ.csproj|solutionrelative:linq\\estatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CCB02EF-DA68-4BAD-80BE-362519612C35}|LINQ\\LINQ.csproj|C:\\Users\\DIEGO\\Documents\\Bootcamp_TICH_SEP_2024\\C_Sharp_POO\\Semana_2\\03-10-2024\\LINQ\\linq\\estado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CCB02EF-DA68-4BAD-80BE-362519612C35}|LINQ\\LINQ.csproj|solutionrelative:linq\\estado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CCB02EF-DA68-4BAD-80BE-362519612C35}|LINQ\\LINQ.csproj|C:\\Users\\DIEGO\\Documents\\Bootcamp_TICH_SEP_2024\\C_Sharp_POO\\Semana_2\\03-10-2024\\LINQ\\linq\\alumno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CCB02EF-DA68-4BAD-80BE-362519612C35}|LINQ\\LINQ.csproj|solutionrelative:linq\\alumno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CCB02EF-DA68-4BAD-80BE-362519612C35}|LINQ\\LINQ.csproj|C:\\Users\\DIEGO\\Documents\\Bootcamp_TICH_SEP_2024\\C_Sharp_POO\\Semana_2\\03-10-2024\\LINQ\\linq\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CCB02EF-DA68-4BAD-80BE-362519612C35}|LINQ\\LINQ.csproj|solutionrelative:linq\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OperacionesLINQ.cs",
+              "DocumentMoniker": "C:\\Users\\DIEGO\\Documents\\Bootcamp_TICH_SEP_2024\\C_Sharp_POO\\Semana_2\\03-10-2024\\LINQ\\LINQ\\OperacionesLINQ.cs",
+              "RelativeDocumentMoniker": "LINQ\\OperacionesLINQ.cs",
+              "ToolTip": "C:\\Users\\DIEGO\\Documents\\Bootcamp_TICH_SEP_2024\\C_Sharp_POO\\Semana_2\\03-10-2024\\LINQ\\LINQ\\OperacionesLINQ.cs",
+              "RelativeToolTip": "LINQ\\OperacionesLINQ.cs",
+              "ViewState": "AgIAAMQAAAAAAAAAAAAAwMkAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T15:45:14.905Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ItemISR.cs",
+              "DocumentMoniker": "C:\\Users\\DIEGO\\Documents\\Bootcamp_TICH_SEP_2024\\C_Sharp_POO\\Semana_2\\03-10-2024\\LINQ\\LINQ\\ItemISR.cs",
+              "RelativeDocumentMoniker": "LINQ\\ItemISR.cs",
+              "ToolTip": "C:\\Users\\DIEGO\\Documents\\Bootcamp_TICH_SEP_2024\\C_Sharp_POO\\Semana_2\\03-10-2024\\LINQ\\LINQ\\ItemISR.cs",
+              "RelativeToolTip": "LINQ\\ItemISR.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T15:43:23.823Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Estatus.cs",
+              "DocumentMoniker": "C:\\Users\\DIEGO\\Documents\\Bootcamp_TICH_SEP_2024\\C_Sharp_POO\\Semana_2\\03-10-2024\\LINQ\\LINQ\\Estatus.cs",
+              "RelativeDocumentMoniker": "LINQ\\Estatus.cs",
+              "ToolTip": "C:\\Users\\DIEGO\\Documents\\Bootcamp_TICH_SEP_2024\\C_Sharp_POO\\Semana_2\\03-10-2024\\LINQ\\LINQ\\Estatus.cs",
+              "RelativeToolTip": "LINQ\\Estatus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T15:42:50.096Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Estado.cs",
+              "DocumentMoniker": "C:\\Users\\DIEGO\\Documents\\Bootcamp_TICH_SEP_2024\\C_Sharp_POO\\Semana_2\\03-10-2024\\LINQ\\LINQ\\Estado.cs",
+              "RelativeDocumentMoniker": "LINQ\\Estado.cs",
+              "ToolTip": "C:\\Users\\DIEGO\\Documents\\Bootcamp_TICH_SEP_2024\\C_Sharp_POO\\Semana_2\\03-10-2024\\LINQ\\LINQ\\Estado.cs",
+              "RelativeToolTip": "LINQ\\Estado.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T15:42:08.379Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Alumno.cs",
+              "DocumentMoniker": "C:\\Users\\DIEGO\\Documents\\Bootcamp_TICH_SEP_2024\\C_Sharp_POO\\Semana_2\\03-10-2024\\LINQ\\LINQ\\Alumno.cs",
+              "RelativeDocumentMoniker": "LINQ\\Alumno.cs",
+              "ToolTip": "C:\\Users\\DIEGO\\Documents\\Bootcamp_TICH_SEP_2024\\C_Sharp_POO\\Semana_2\\03-10-2024\\LINQ\\LINQ\\Alumno.cs",
+              "RelativeToolTip": "LINQ\\Alumno.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T15:39:31.402Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\DIEGO\\Documents\\Bootcamp_TICH_SEP_2024\\C_Sharp_POO\\Semana_2\\03-10-2024\\LINQ\\LINQ\\Program.cs",
+              "RelativeDocumentMoniker": "LINQ\\Program.cs",
+              "ToolTip": "C:\\Users\\DIEGO\\Documents\\Bootcamp_TICH_SEP_2024\\C_Sharp_POO\\Semana_2\\03-10-2024\\LINQ\\LINQ\\Program.cs",
+              "RelativeToolTip": "LINQ\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T15:35:20.394Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

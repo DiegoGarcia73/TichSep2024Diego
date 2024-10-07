@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\DIEGO\\Documents\\Bootcamp_TICH_SEP_2024\\C_Sharp_POO\\Semana_2\\03-10-2024\\PuntoDeVenta\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8C859D9E-AB18-49C3-9E34-F87D1C500D77}|PuntoDeVenta\\PuntoDeVenta.csproj|c:\\users\\diego\\documents\\bootcamp_tich_sep_2024\\c_sharp_poo\\semana_2\\03-10-2024\\puntodeventa\\puntodeventa\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C859D9E-AB18-49C3-9E34-F87D1C500D77}|PuntoDeVenta\\PuntoDeVenta.csproj|solutionrelative:puntodeventa\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C859D9E-AB18-49C3-9E34-F87D1C500D77}|PuntoDeVenta\\PuntoDeVenta.csproj|C:\\Users\\DIEGO\\Documents\\Bootcamp_TICH_SEP_2024\\C_Sharp_POO\\Semana_2\\03-10-2024\\PuntoDeVenta\\puntodeventa\\itembase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C859D9E-AB18-49C3-9E34-F87D1C500D77}|PuntoDeVenta\\PuntoDeVenta.csproj|solutionrelative:puntodeventa\\itembase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C859D9E-AB18-49C3-9E34-F87D1C500D77}|PuntoDeVenta\\PuntoDeVenta.csproj|C:\\Users\\DIEGO\\Documents\\Bootcamp_TICH_SEP_2024\\C_Sharp_POO\\Semana_2\\03-10-2024\\PuntoDeVenta\\puntodeventa\\itemdescuento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C859D9E-AB18-49C3-9E34-F87D1C500D77}|PuntoDeVenta\\PuntoDeVenta.csproj|solutionrelative:puntodeventa\\itemdescuento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C859D9E-AB18-49C3-9E34-F87D1C500D77}|PuntoDeVenta\\PuntoDeVenta.csproj|C:\\Users\\DIEGO\\Documents\\Bootcamp_TICH_SEP_2024\\C_Sharp_POO\\Semana_2\\03-10-2024\\PuntoDeVenta\\puntodeventa\\articulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C859D9E-AB18-49C3-9E34-F87D1C500D77}|PuntoDeVenta\\PuntoDeVenta.csproj|solutionrelative:puntodeventa\\articulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C859D9E-AB18-49C3-9E34-F87D1C500D77}|PuntoDeVenta\\PuntoDeVenta.csproj|C:\\Users\\DIEGO\\Documents\\Bootcamp_TICH_SEP_2024\\C_Sharp_POO\\Semana_2\\03-10-2024\\PuntoDeVenta\\puntodeventa\\itemta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C859D9E-AB18-49C3-9E34-F87D1C500D77}|PuntoDeVenta\\PuntoDeVenta.csproj|solutionrelative:puntodeventa\\itemta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C859D9E-AB18-49C3-9E34-F87D1C500D77}|PuntoDeVenta\\PuntoDeVenta.csproj|C:\\Users\\DIEGO\\Documents\\Bootcamp_TICH_SEP_2024\\C_Sharp_POO\\Semana_2\\03-10-2024\\PuntoDeVenta\\puntodeventa\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C859D9E-AB18-49C3-9E34-F87D1C500D77}|PuntoDeVenta\\PuntoDeVenta.csproj|solutionrelative:puntodeventa\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Item.cs",
+              "DocumentMoniker": "C:\\Users\\DIEGO\\Documents\\Bootcamp_TICH_SEP_2024\\C_Sharp_POO\\Semana_2\\03-10-2024\\PuntoDeVenta\\PuntoDeVenta\\Item.cs",
+              "RelativeDocumentMoniker": "PuntoDeVenta\\Item.cs",
+              "ToolTip": "C:\\Users\\DIEGO\\Documents\\Bootcamp_TICH_SEP_2024\\C_Sharp_POO\\Semana_2\\03-10-2024\\PuntoDeVenta\\PuntoDeVenta\\Item.cs",
+              "RelativeToolTip": "PuntoDeVenta\\Item.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T21:40:24.001Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ItemTA.cs",
+              "DocumentMoniker": "C:\\Users\\DIEGO\\Documents\\Bootcamp_TICH_SEP_2024\\C_Sharp_POO\\Semana_2\\03-10-2024\\PuntoDeVenta\\PuntoDeVenta\\ItemTA.cs",
+              "RelativeDocumentMoniker": "PuntoDeVenta\\ItemTA.cs",
+              "ToolTip": "C:\\Users\\DIEGO\\Documents\\Bootcamp_TICH_SEP_2024\\C_Sharp_POO\\Semana_2\\03-10-2024\\PuntoDeVenta\\PuntoDeVenta\\ItemTA.cs",
+              "RelativeToolTip": "PuntoDeVenta\\ItemTA.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T21:40:36.824Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Articulo.cs",
+              "DocumentMoniker": "C:\\Users\\DIEGO\\Documents\\Bootcamp_TICH_SEP_2024\\C_Sharp_POO\\Semana_2\\03-10-2024\\PuntoDeVenta\\PuntoDeVenta\\Articulo.cs",
+              "RelativeDocumentMoniker": "PuntoDeVenta\\Articulo.cs",
+              "ToolTip": "C:\\Users\\DIEGO\\Documents\\Bootcamp_TICH_SEP_2024\\C_Sharp_POO\\Semana_2\\03-10-2024\\PuntoDeVenta\\PuntoDeVenta\\Articulo.cs",
+              "RelativeToolTip": "PuntoDeVenta\\Articulo.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABQAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T21:40:45.726Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ItemDescuento.cs",
+              "DocumentMoniker": "C:\\Users\\DIEGO\\Documents\\Bootcamp_TICH_SEP_2024\\C_Sharp_POO\\Semana_2\\03-10-2024\\PuntoDeVenta\\PuntoDeVenta\\ItemDescuento.cs",
+              "RelativeDocumentMoniker": "PuntoDeVenta\\ItemDescuento.cs",
+              "ToolTip": "C:\\Users\\DIEGO\\Documents\\Bootcamp_TICH_SEP_2024\\C_Sharp_POO\\Semana_2\\03-10-2024\\PuntoDeVenta\\PuntoDeVenta\\ItemDescuento.cs",
+              "RelativeToolTip": "PuntoDeVenta\\ItemDescuento.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T21:40:14.166Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ItemBase.cs",
+              "DocumentMoniker": "C:\\Users\\DIEGO\\Documents\\Bootcamp_TICH_SEP_2024\\C_Sharp_POO\\Semana_2\\03-10-2024\\PuntoDeVenta\\PuntoDeVenta\\ItemBase.cs",
+              "RelativeDocumentMoniker": "PuntoDeVenta\\ItemBase.cs",
+              "ToolTip": "C:\\Users\\DIEGO\\Documents\\Bootcamp_TICH_SEP_2024\\C_Sharp_POO\\Semana_2\\03-10-2024\\PuntoDeVenta\\PuntoDeVenta\\ItemBase.cs",
+              "RelativeToolTip": "PuntoDeVenta\\ItemBase.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAsAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T21:40:02.988Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\DIEGO\\Documents\\Bootcamp_TICH_SEP_2024\\C_Sharp_POO\\Semana_2\\03-10-2024\\PuntoDeVenta\\PuntoDeVenta\\Program.cs",
+              "RelativeDocumentMoniker": "PuntoDeVenta\\Program.cs",
+              "ToolTip": "C:\\Users\\DIEGO\\Documents\\Bootcamp_TICH_SEP_2024\\C_Sharp_POO\\Semana_2\\03-10-2024\\PuntoDeVenta\\PuntoDeVenta\\Program.cs",
+              "RelativeToolTip": "PuntoDeVenta\\Program.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAADwv0sAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T21:39:28.326Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
