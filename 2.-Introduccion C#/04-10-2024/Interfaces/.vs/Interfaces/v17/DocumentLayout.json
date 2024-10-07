@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\DIEGO\\Documents\\Bootcamp_TICH_SEP_2024\\C_Sharp_POO\\Semana_2\\04-10-2024\\Interfaces\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{87040F8B-AF3B-4AA3-ABE3-3BCD5F16FC26}|Interfaces\\Interfaces.csproj|c:\\users\\diego\\documents\\bootcamp_tich_sep_2024\\c_sharp_poo\\semana_2\\04-10-2024\\interfaces\\interfaces\\ifigura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87040F8B-AF3B-4AA3-ABE3-3BCD5F16FC26}|Interfaces\\Interfaces.csproj|solutionrelative:interfaces\\ifigura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87040F8B-AF3B-4AA3-ABE3-3BCD5F16FC26}|Interfaces\\Interfaces.csproj|c:\\users\\diego\\documents\\bootcamp_tich_sep_2024\\c_sharp_poo\\semana_2\\04-10-2024\\interfaces\\interfaces\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87040F8B-AF3B-4AA3-ABE3-3BCD5F16FC26}|Interfaces\\Interfaces.csproj|solutionrelative:interfaces\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87040F8B-AF3B-4AA3-ABE3-3BCD5F16FC26}|Interfaces\\Interfaces.csproj|c:\\users\\diego\\documents\\bootcamp_tich_sep_2024\\c_sharp_poo\\semana_2\\04-10-2024\\interfaces\\interfaces\\triangulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87040F8B-AF3B-4AA3-ABE3-3BCD5F16FC26}|Interfaces\\Interfaces.csproj|solutionrelative:interfaces\\triangulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87040F8B-AF3B-4AA3-ABE3-3BCD5F16FC26}|Interfaces\\Interfaces.csproj|c:\\users\\diego\\documents\\bootcamp_tich_sep_2024\\c_sharp_poo\\semana_2\\04-10-2024\\interfaces\\interfaces\\cuadrado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87040F8B-AF3B-4AA3-ABE3-3BCD5F16FC26}|Interfaces\\Interfaces.csproj|solutionrelative:interfaces\\cuadrado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Triangulo.cs",
+              "DocumentMoniker": "C:\\Users\\DIEGO\\Documents\\Bootcamp_TICH_SEP_2024\\C_Sharp_POO\\Semana_2\\04-10-2024\\Interfaces\\Interfaces\\Triangulo.cs",
+              "RelativeDocumentMoniker": "Interfaces\\Triangulo.cs",
+              "ToolTip": "C:\\Users\\DIEGO\\Documents\\Bootcamp_TICH_SEP_2024\\C_Sharp_POO\\Semana_2\\04-10-2024\\Interfaces\\Interfaces\\Triangulo.cs",
+              "RelativeToolTip": "Interfaces\\Triangulo.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwB0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T15:13:37.419Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Cuadrado.cs",
+              "DocumentMoniker": "C:\\Users\\DIEGO\\Documents\\Bootcamp_TICH_SEP_2024\\C_Sharp_POO\\Semana_2\\04-10-2024\\Interfaces\\Interfaces\\Cuadrado.cs",
+              "RelativeDocumentMoniker": "Interfaces\\Cuadrado.cs",
+              "ToolTip": "C:\\Users\\DIEGO\\Documents\\Bootcamp_TICH_SEP_2024\\C_Sharp_POO\\Semana_2\\04-10-2024\\Interfaces\\Interfaces\\Cuadrado.cs",
+              "RelativeToolTip": "Interfaces\\Cuadrado.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAgAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T15:09:06.705Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IFigura.cs",
+              "DocumentMoniker": "C:\\Users\\DIEGO\\Documents\\Bootcamp_TICH_SEP_2024\\C_Sharp_POO\\Semana_2\\04-10-2024\\Interfaces\\Interfaces\\IFigura.cs",
+              "RelativeDocumentMoniker": "Interfaces\\IFigura.cs",
+              "ToolTip": "C:\\Users\\DIEGO\\Documents\\Bootcamp_TICH_SEP_2024\\C_Sharp_POO\\Semana_2\\04-10-2024\\Interfaces\\Interfaces\\IFigura.cs",
+              "RelativeToolTip": "Interfaces\\IFigura.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T15:07:08.24Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\DIEGO\\Documents\\Bootcamp_TICH_SEP_2024\\C_Sharp_POO\\Semana_2\\04-10-2024\\Interfaces\\Interfaces\\Program.cs",
+              "RelativeDocumentMoniker": "Interfaces\\Program.cs",
+              "ToolTip": "C:\\Users\\DIEGO\\Documents\\Bootcamp_TICH_SEP_2024\\C_Sharp_POO\\Semana_2\\04-10-2024\\Interfaces\\Interfaces\\Program.cs",
+              "RelativeToolTip": "Interfaces\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABEAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T15:04:52.526Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

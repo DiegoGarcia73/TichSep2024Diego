@@ -1,0 +1,7 @@
+C:\Users\DIEGO\Documents\Bootcamp TICH SEP-2024\C# y POO\Semana 2\30-09-2024\IntroduccionCS\IntroduccionCS\obj\Debug\IntroduccionCS.csproj.AssemblyReference.cache
+C:\Users\DIEGO\Documents\Bootcamp TICH SEP-2024\C# y POO\Semana 2\30-09-2024\IntroduccionCS\IntroduccionCS\obj\Debug\IntroduccionCS.csproj.CoreCompileInputs.cache
+C:\Users\DIEGO\Documents\Bootcamp TICH SEP-2024\C# y POO\Semana 2\30-09-2024\IntroduccionCS\IntroduccionCS\bin\Debug\IntroduccionCS.exe.config
+C:\Users\DIEGO\Documents\Bootcamp TICH SEP-2024\C# y POO\Semana 2\30-09-2024\IntroduccionCS\IntroduccionCS\bin\Debug\IntroduccionCS.exe
+C:\Users\DIEGO\Documents\Bootcamp TICH SEP-2024\C# y POO\Semana 2\30-09-2024\IntroduccionCS\IntroduccionCS\bin\Debug\IntroduccionCS.pdb
+C:\Users\DIEGO\Documents\Bootcamp TICH SEP-2024\C# y POO\Semana 2\30-09-2024\IntroduccionCS\IntroduccionCS\obj\Debug\IntroduccionCS.exe
+C:\Users\DIEGO\Documents\Bootcamp TICH SEP-2024\C# y POO\Semana 2\30-09-2024\IntroduccionCS\IntroduccionCS\obj\Debug\IntroduccionCS.pdb

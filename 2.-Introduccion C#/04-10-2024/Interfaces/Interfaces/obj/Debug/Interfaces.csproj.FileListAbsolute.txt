@@ -1,0 +1,7 @@
+C:\Users\DIEGO\Documents\Bootcamp_TICH_SEP_2024\C_Sharp_POO\Semana_2\04-10-2024\Interfaces\Interfaces\bin\Debug\Interfaces.exe.config
+C:\Users\DIEGO\Documents\Bootcamp_TICH_SEP_2024\C_Sharp_POO\Semana_2\04-10-2024\Interfaces\Interfaces\bin\Debug\Interfaces.exe
+C:\Users\DIEGO\Documents\Bootcamp_TICH_SEP_2024\C_Sharp_POO\Semana_2\04-10-2024\Interfaces\Interfaces\bin\Debug\Interfaces.pdb
+C:\Users\DIEGO\Documents\Bootcamp_TICH_SEP_2024\C_Sharp_POO\Semana_2\04-10-2024\Interfaces\Interfaces\obj\Debug\Interfaces.csproj.AssemblyReference.cache
+C:\Users\DIEGO\Documents\Bootcamp_TICH_SEP_2024\C_Sharp_POO\Semana_2\04-10-2024\Interfaces\Interfaces\obj\Debug\Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\DIEGO\Documents\Bootcamp_TICH_SEP_2024\C_Sharp_POO\Semana_2\04-10-2024\Interfaces\Interfaces\obj\Debug\Interfaces.exe
+C:\Users\DIEGO\Documents\Bootcamp_TICH_SEP_2024\C_Sharp_POO\Semana_2\04-10-2024\Interfaces\Interfaces\obj\Debug\Interfaces.pdb

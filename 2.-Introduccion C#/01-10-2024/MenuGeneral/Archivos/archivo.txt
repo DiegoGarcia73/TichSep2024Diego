@@ -1,0 +1,3 @@
+﻿Juan,Perez,Rodriguez,30,Chiapas
+Juan,Rodriguez,Lugo,31,Durango
+Roberto,Jimenez,Lugo,35,Zacatecas

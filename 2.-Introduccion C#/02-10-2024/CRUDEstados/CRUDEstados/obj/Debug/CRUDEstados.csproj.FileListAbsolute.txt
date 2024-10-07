@@ -1,0 +1,7 @@
+C:\Users\DIEGO\Documents\Bootcamp_TICH_SEP_2024\C_Sharp_POO\Semana_2\02-10-2024\CRUDEstados\CRUDEstados\bin\Debug\CRUDEstados.exe.config
+C:\Users\DIEGO\Documents\Bootcamp_TICH_SEP_2024\C_Sharp_POO\Semana_2\02-10-2024\CRUDEstados\CRUDEstados\bin\Debug\CRUDEstados.exe
+C:\Users\DIEGO\Documents\Bootcamp_TICH_SEP_2024\C_Sharp_POO\Semana_2\02-10-2024\CRUDEstados\CRUDEstados\bin\Debug\CRUDEstados.pdb
+C:\Users\DIEGO\Documents\Bootcamp_TICH_SEP_2024\C_Sharp_POO\Semana_2\02-10-2024\CRUDEstados\CRUDEstados\obj\Debug\CRUDEstados.csproj.AssemblyReference.cache
+C:\Users\DIEGO\Documents\Bootcamp_TICH_SEP_2024\C_Sharp_POO\Semana_2\02-10-2024\CRUDEstados\CRUDEstados\obj\Debug\CRUDEstados.csproj.CoreCompileInputs.cache
+C:\Users\DIEGO\Documents\Bootcamp_TICH_SEP_2024\C_Sharp_POO\Semana_2\02-10-2024\CRUDEstados\CRUDEstados\obj\Debug\CRUDEstados.exe
+C:\Users\DIEGO\Documents\Bootcamp_TICH_SEP_2024\C_Sharp_POO\Semana_2\02-10-2024\CRUDEstados\CRUDEstados\obj\Debug\CRUDEstados.pdb

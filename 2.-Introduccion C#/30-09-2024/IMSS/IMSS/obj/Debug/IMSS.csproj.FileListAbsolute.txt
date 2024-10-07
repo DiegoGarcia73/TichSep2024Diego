@@ -1,0 +1,14 @@
+C:\Users\DIEGO\Documents\Bootcamp TICH SEP-2024\C# y POO\Semana 2\30-09-2024\IMSS\IMSS\bin\Debug\IMSS.exe.config
+C:\Users\DIEGO\Documents\Bootcamp TICH SEP-2024\C# y POO\Semana 2\30-09-2024\IMSS\IMSS\bin\Debug\IMSS.exe
+C:\Users\DIEGO\Documents\Bootcamp TICH SEP-2024\C# y POO\Semana 2\30-09-2024\IMSS\IMSS\bin\Debug\IMSS.pdb
+C:\Users\DIEGO\Documents\Bootcamp TICH SEP-2024\C# y POO\Semana 2\30-09-2024\IMSS\IMSS\obj\Debug\IMSS.csproj.AssemblyReference.cache
+C:\Users\DIEGO\Documents\Bootcamp TICH SEP-2024\C# y POO\Semana 2\30-09-2024\IMSS\IMSS\obj\Debug\IMSS.csproj.CoreCompileInputs.cache
+C:\Users\DIEGO\Documents\Bootcamp TICH SEP-2024\C# y POO\Semana 2\30-09-2024\IMSS\IMSS\obj\Debug\IMSS.exe
+C:\Users\DIEGO\Documents\Bootcamp TICH SEP-2024\C# y POO\Semana 2\30-09-2024\IMSS\IMSS\obj\Debug\IMSS.pdb
+C:\Users\DIEGO\Documents\Bootcamp_TICH_SEP_2024\C_Sharp_POO\Semana_2\30-09-2024\IMSS\IMSS\bin\Debug\IMSS.exe.config
+C:\Users\DIEGO\Documents\Bootcamp_TICH_SEP_2024\C_Sharp_POO\Semana_2\30-09-2024\IMSS\IMSS\bin\Debug\IMSS.exe
+C:\Users\DIEGO\Documents\Bootcamp_TICH_SEP_2024\C_Sharp_POO\Semana_2\30-09-2024\IMSS\IMSS\bin\Debug\IMSS.pdb
+C:\Users\DIEGO\Documents\Bootcamp_TICH_SEP_2024\C_Sharp_POO\Semana_2\30-09-2024\IMSS\IMSS\obj\Debug\IMSS.csproj.AssemblyReference.cache
+C:\Users\DIEGO\Documents\Bootcamp_TICH_SEP_2024\C_Sharp_POO\Semana_2\30-09-2024\IMSS\IMSS\obj\Debug\IMSS.csproj.CoreCompileInputs.cache
+C:\Users\DIEGO\Documents\Bootcamp_TICH_SEP_2024\C_Sharp_POO\Semana_2\30-09-2024\IMSS\IMSS\obj\Debug\IMSS.exe
+C:\Users\DIEGO\Documents\Bootcamp_TICH_SEP_2024\C_Sharp_POO\Semana_2\30-09-2024\IMSS\IMSS\obj\Debug\IMSS.pdb

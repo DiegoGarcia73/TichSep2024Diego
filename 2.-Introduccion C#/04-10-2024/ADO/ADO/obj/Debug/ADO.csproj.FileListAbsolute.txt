@@ -1,0 +1,10 @@
+C:\Users\DIEGO\Documents\Bootcamp_TICH_SEP_2024\C_Sharp_POO\Semana_2\04-10-2024\ADO\ADO\bin\Debug\ADO.exe.config
+C:\Users\DIEGO\Documents\Bootcamp_TICH_SEP_2024\C_Sharp_POO\Semana_2\04-10-2024\ADO\ADO\bin\Debug\ADO.exe
+C:\Users\DIEGO\Documents\Bootcamp_TICH_SEP_2024\C_Sharp_POO\Semana_2\04-10-2024\ADO\ADO\bin\Debug\ADO.pdb
+C:\Users\DIEGO\Documents\Bootcamp_TICH_SEP_2024\C_Sharp_POO\Semana_2\04-10-2024\ADO\ADO\bin\Debug\System.Data.SqlClient.dll
+C:\Users\DIEGO\Documents\Bootcamp_TICH_SEP_2024\C_Sharp_POO\Semana_2\04-10-2024\ADO\ADO\bin\Debug\System.Data.SqlClient.xml
+C:\Users\DIEGO\Documents\Bootcamp_TICH_SEP_2024\C_Sharp_POO\Semana_2\04-10-2024\ADO\ADO\obj\Debug\ADO.csproj.AssemblyReference.cache
+C:\Users\DIEGO\Documents\Bootcamp_TICH_SEP_2024\C_Sharp_POO\Semana_2\04-10-2024\ADO\ADO\obj\Debug\ADO.csproj.CoreCompileInputs.cache
+C:\Users\DIEGO\Documents\Bootcamp_TICH_SEP_2024\C_Sharp_POO\Semana_2\04-10-2024\ADO\ADO\obj\Debug\ADO.csproj.Up2Date
+C:\Users\DIEGO\Documents\Bootcamp_TICH_SEP_2024\C_Sharp_POO\Semana_2\04-10-2024\ADO\ADO\obj\Debug\ADO.exe
+C:\Users\DIEGO\Documents\Bootcamp_TICH_SEP_2024\C_Sharp_POO\Semana_2\04-10-2024\ADO\ADO\obj\Debug\ADO.pdb

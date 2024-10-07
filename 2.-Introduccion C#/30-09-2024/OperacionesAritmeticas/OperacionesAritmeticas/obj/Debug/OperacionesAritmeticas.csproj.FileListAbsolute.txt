@@ -1,0 +1,7 @@
+C:\Users\DIEGO\Documents\Bootcamp TICH SEP-2024\C# y POO\Semana 2\30-09-2024\OperacionesAritmeticas\OperacionesAritmeticas\bin\Debug\OperacionesAritmeticas.exe.config
+C:\Users\DIEGO\Documents\Bootcamp TICH SEP-2024\C# y POO\Semana 2\30-09-2024\OperacionesAritmeticas\OperacionesAritmeticas\bin\Debug\OperacionesAritmeticas.exe
+C:\Users\DIEGO\Documents\Bootcamp TICH SEP-2024\C# y POO\Semana 2\30-09-2024\OperacionesAritmeticas\OperacionesAritmeticas\bin\Debug\OperacionesAritmeticas.pdb
+C:\Users\DIEGO\Documents\Bootcamp TICH SEP-2024\C# y POO\Semana 2\30-09-2024\OperacionesAritmeticas\OperacionesAritmeticas\obj\Debug\OperacionesAritmeticas.csproj.AssemblyReference.cache
+C:\Users\DIEGO\Documents\Bootcamp TICH SEP-2024\C# y POO\Semana 2\30-09-2024\OperacionesAritmeticas\OperacionesAritmeticas\obj\Debug\OperacionesAritmeticas.csproj.CoreCompileInputs.cache
+C:\Users\DIEGO\Documents\Bootcamp TICH SEP-2024\C# y POO\Semana 2\30-09-2024\OperacionesAritmeticas\OperacionesAritmeticas\obj\Debug\OperacionesAritmeticas.exe
+C:\Users\DIEGO\Documents\Bootcamp TICH SEP-2024\C# y POO\Semana 2\30-09-2024\OperacionesAritmeticas\OperacionesAritmeticas\obj\Debug\OperacionesAritmeticas.pdb

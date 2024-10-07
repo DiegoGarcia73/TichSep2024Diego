@@ -1,0 +1,22 @@
+C:\Users\Tichs\Desktop\C#\proyectos\CRUDEstatus”\CRUDEstatus”\bin\Debug\CRUDEstatus”.exe.config
+C:\Users\Tichs\Desktop\C#\proyectos\CRUDEstatus”\CRUDEstatus”\bin\Debug\CRUDEstatus”.exe
+C:\Users\Tichs\Desktop\C#\proyectos\CRUDEstatus”\CRUDEstatus”\bin\Debug\CRUDEstatus”.pdb
+C:\Users\Tichs\Desktop\C#\proyectos\CRUDEstatus”\CRUDEstatus”\obj\Debug\CRUDEstatus”.csproj.AssemblyReference.cache
+C:\Users\Tichs\Desktop\C#\proyectos\CRUDEstatus”\CRUDEstatus”\obj\Debug\CRUDEstatus”.csproj.SuggestedBindingRedirects.cache
+C:\Users\Tichs\Desktop\C#\proyectos\CRUDEstatus”\CRUDEstatus”\obj\Debug\CRUDEstatus”.csproj.CoreCompileInputs.cache
+C:\Users\Tichs\Desktop\C#\proyectos\CRUDEstatus”\CRUDEstatus”\obj\Debug\CRUDEstatus”.exe
+C:\Users\Tichs\Desktop\C#\proyectos\CRUDEstatus”\CRUDEstatus”\obj\Debug\CRUDEstatus”.pdb
+C:\Users\DIEGO\Downloads\2.-Introduccion C#\2.-Introduccion C#\CRUDEstatus\CRUDEstatus”\bin\Debug\CRUDEstatus”.exe.config
+C:\Users\DIEGO\Downloads\2.-Introduccion C#\2.-Introduccion C#\CRUDEstatus\CRUDEstatus”\bin\Debug\CRUDEstatus”.exe
+C:\Users\DIEGO\Downloads\2.-Introduccion C#\2.-Introduccion C#\CRUDEstatus\CRUDEstatus”\bin\Debug\CRUDEstatus”.pdb
+C:\Users\DIEGO\Downloads\2.-Introduccion C#\2.-Introduccion C#\CRUDEstatus\CRUDEstatus”\obj\Debug\CRUDEstatus”.csproj.AssemblyReference.cache
+C:\Users\DIEGO\Downloads\2.-Introduccion C#\2.-Introduccion C#\CRUDEstatus\CRUDEstatus”\obj\Debug\CRUDEstatus”.csproj.CoreCompileInputs.cache
+C:\Users\DIEGO\Downloads\2.-Introduccion C#\2.-Introduccion C#\CRUDEstatus\CRUDEstatus”\obj\Debug\CRUDEstatus”.exe
+C:\Users\DIEGO\Downloads\2.-Introduccion C#\2.-Introduccion C#\CRUDEstatus\CRUDEstatus”\obj\Debug\CRUDEstatus”.pdb
+C:\Users\DIEGO\Documents\Bootcamp_TICH_SEP_2024\C_Sharp_POO\Semana_2\02-10-2024\CRUDEstatus\CRUDEstatus”\bin\Debug\CRUDEstatus”.exe.config
+C:\Users\DIEGO\Documents\Bootcamp_TICH_SEP_2024\C_Sharp_POO\Semana_2\02-10-2024\CRUDEstatus\CRUDEstatus”\bin\Debug\CRUDEstatus”.exe
+C:\Users\DIEGO\Documents\Bootcamp_TICH_SEP_2024\C_Sharp_POO\Semana_2\02-10-2024\CRUDEstatus\CRUDEstatus”\bin\Debug\CRUDEstatus”.pdb
+C:\Users\DIEGO\Documents\Bootcamp_TICH_SEP_2024\C_Sharp_POO\Semana_2\02-10-2024\CRUDEstatus\CRUDEstatus”\obj\Debug\CRUDEstatus”.csproj.AssemblyReference.cache
+C:\Users\DIEGO\Documents\Bootcamp_TICH_SEP_2024\C_Sharp_POO\Semana_2\02-10-2024\CRUDEstatus\CRUDEstatus”\obj\Debug\CRUDEstatus”.csproj.CoreCompileInputs.cache
+C:\Users\DIEGO\Documents\Bootcamp_TICH_SEP_2024\C_Sharp_POO\Semana_2\02-10-2024\CRUDEstatus\CRUDEstatus”\obj\Debug\CRUDEstatus”.exe
+C:\Users\DIEGO\Documents\Bootcamp_TICH_SEP_2024\C_Sharp_POO\Semana_2\02-10-2024\CRUDEstatus\CRUDEstatus”\obj\Debug\CRUDEstatus”.pdb

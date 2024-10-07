@@ -1,0 +1,37 @@
+C:\Users\Tichs\Desktop\C#\proyectos\MenuGeneral\MenuGeneral\obj\Debug\MenuGeneral.csproj.AssemblyReference.cache
+C:\Users\Tichs\Desktop\C#\proyectos\MenuGeneral\MenuGeneral\obj\Debug\MenuGeneral.csproj.SuggestedBindingRedirects.cache
+C:\Users\Tichs\Desktop\C#\proyectos\MenuGeneral\MenuGeneral\obj\Debug\MenuGeneral.csproj.CoreCompileInputs.cache
+C:\Users\Tichs\Desktop\C#\proyectos\MenuGeneral\MenuGeneral\bin\Debug\MenuGeneral.exe.config
+C:\Users\Tichs\Desktop\C#\proyectos\MenuGeneral\MenuGeneral\bin\Debug\MenuGeneral.exe
+C:\Users\Tichs\Desktop\C#\proyectos\MenuGeneral\MenuGeneral\bin\Debug\MenuGeneral.pdb
+C:\Users\Tichs\Desktop\C#\proyectos\MenuGeneral\MenuGeneral\obj\Debug\MenuGeneral.exe
+C:\Users\Tichs\Desktop\C#\proyectos\MenuGeneral\MenuGeneral\obj\Debug\MenuGeneral.pdb
+C:\Users\Tichs\Documents\C#\Proyectos\MenuGeneral\MenuGeneral\bin\Debug\MenuGeneral.exe.config
+C:\Users\Tichs\Documents\C#\Proyectos\MenuGeneral\MenuGeneral\bin\Debug\MenuGeneral.exe
+C:\Users\Tichs\Documents\C#\Proyectos\MenuGeneral\MenuGeneral\bin\Debug\MenuGeneral.pdb
+C:\Users\Tichs\Documents\C#\Proyectos\MenuGeneral\MenuGeneral\obj\Debug\MenuGeneral.csproj.AssemblyReference.cache
+C:\Users\Tichs\Documents\C#\Proyectos\MenuGeneral\MenuGeneral\obj\Debug\MenuGeneral.csproj.SuggestedBindingRedirects.cache
+C:\Users\Tichs\Documents\C#\Proyectos\MenuGeneral\MenuGeneral\obj\Debug\MenuGeneral.csproj.CoreCompileInputs.cache
+C:\Users\Tichs\Documents\C#\Proyectos\MenuGeneral\MenuGeneral\obj\Debug\MenuGeneral.exe
+C:\Users\Tichs\Documents\C#\Proyectos\MenuGeneral\MenuGeneral\obj\Debug\MenuGeneral.pdb
+C:\Users\DIEGO\Downloads\2.-Introduccion C#\2.-Introduccion C#\MenuGeneral\MenuGeneral\bin\Debug\MenuGeneral.exe.config
+C:\Users\DIEGO\Downloads\2.-Introduccion C#\2.-Introduccion C#\MenuGeneral\MenuGeneral\bin\Debug\MenuGeneral.exe
+C:\Users\DIEGO\Downloads\2.-Introduccion C#\2.-Introduccion C#\MenuGeneral\MenuGeneral\bin\Debug\MenuGeneral.pdb
+C:\Users\DIEGO\Downloads\2.-Introduccion C#\2.-Introduccion C#\MenuGeneral\MenuGeneral\obj\Debug\MenuGeneral.csproj.AssemblyReference.cache
+C:\Users\DIEGO\Downloads\2.-Introduccion C#\2.-Introduccion C#\MenuGeneral\MenuGeneral\obj\Debug\MenuGeneral.csproj.CoreCompileInputs.cache
+C:\Users\DIEGO\Downloads\2.-Introduccion C#\2.-Introduccion C#\MenuGeneral\MenuGeneral\obj\Debug\MenuGeneral.exe
+C:\Users\DIEGO\Downloads\2.-Introduccion C#\2.-Introduccion C#\MenuGeneral\MenuGeneral\obj\Debug\MenuGeneral.pdb
+C:\Users\DIEGO\Documents\Bootcamp TICH SEP-2024\C# y POO\Semana 2\01-10-2024\MenuGeneral\MenuGeneral\bin\Debug\MenuGeneral.exe.config
+C:\Users\DIEGO\Documents\Bootcamp TICH SEP-2024\C# y POO\Semana 2\01-10-2024\MenuGeneral\MenuGeneral\bin\Debug\MenuGeneral.exe
+C:\Users\DIEGO\Documents\Bootcamp TICH SEP-2024\C# y POO\Semana 2\01-10-2024\MenuGeneral\MenuGeneral\bin\Debug\MenuGeneral.pdb
+C:\Users\DIEGO\Documents\Bootcamp TICH SEP-2024\C# y POO\Semana 2\01-10-2024\MenuGeneral\MenuGeneral\obj\Debug\MenuGeneral.csproj.AssemblyReference.cache
+C:\Users\DIEGO\Documents\Bootcamp TICH SEP-2024\C# y POO\Semana 2\01-10-2024\MenuGeneral\MenuGeneral\obj\Debug\MenuGeneral.csproj.CoreCompileInputs.cache
+C:\Users\DIEGO\Documents\Bootcamp TICH SEP-2024\C# y POO\Semana 2\01-10-2024\MenuGeneral\MenuGeneral\obj\Debug\MenuGeneral.exe
+C:\Users\DIEGO\Documents\Bootcamp TICH SEP-2024\C# y POO\Semana 2\01-10-2024\MenuGeneral\MenuGeneral\obj\Debug\MenuGeneral.pdb
+C:\Users\DIEGO\Documents\Bootcamp_TICH_SEP_2024\C_Sharp_POO\Semana_2\01_10_2024\MenuGeneral\MenuGeneral\obj\Debug\MenuGeneral.csproj.AssemblyReference.cache
+C:\Users\DIEGO\Documents\Bootcamp_TICH_SEP_2024\C_Sharp_POO\Semana_2\01_10_2024\MenuGeneral\MenuGeneral\obj\Debug\MenuGeneral.csproj.CoreCompileInputs.cache
+C:\Users\DIEGO\Documents\Bootcamp_TICH_SEP_2024\C_Sharp_POO\Semana_2\01_10_2024\MenuGeneral\MenuGeneral\obj\Debug\MenuGeneral.exe
+C:\Users\DIEGO\Documents\Bootcamp_TICH_SEP_2024\C_Sharp_POO\Semana_2\01_10_2024\MenuGeneral\MenuGeneral\obj\Debug\MenuGeneral.pdb
+C:\Users\DIEGO\Documents\Bootcamp_TICH_SEP_2024\C_Sharp_POO\Semana_2\01_10_2024\MenuGeneral\MenuGeneral\bin\Debug\MenuGeneral.exe.config
+C:\Users\DIEGO\Documents\Bootcamp_TICH_SEP_2024\C_Sharp_POO\Semana_2\01_10_2024\MenuGeneral\MenuGeneral\bin\Debug\MenuGeneral.exe
+C:\Users\DIEGO\Documents\Bootcamp_TICH_SEP_2024\C_Sharp_POO\Semana_2\01_10_2024\MenuGeneral\MenuGeneral\bin\Debug\MenuGeneral.pdb

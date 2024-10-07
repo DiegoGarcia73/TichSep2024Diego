@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\DIEGO\\Documents\\Bootcamp_TICH_SEP_2024\\C_Sharp_POO\\Semana_2\\30-09-2024\\IMSS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8A509EB9-4277-410C-99ED-DBFB1625EA7D}|IMSS\\IMSS.csproj|c:\\users\\diego\\documents\\bootcamp_tich_sep_2024\\c_sharp_poo\\semana_2\\30-09-2024\\imss\\imss\\calculadoraimss.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A509EB9-4277-410C-99ED-DBFB1625EA7D}|IMSS\\IMSS.csproj|solutionrelative:imss\\calculadoraimss.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A509EB9-4277-410C-99ED-DBFB1625EA7D}|IMSS\\IMSS.csproj|C:\\Users\\DIEGO\\Documents\\Bootcamp_TICH_SEP_2024\\C_Sharp_POO\\Semana_2\\30-09-2024\\IMSS\\imss\\aportaciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A509EB9-4277-410C-99ED-DBFB1625EA7D}|IMSS\\IMSS.csproj|solutionrelative:imss\\aportaciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A509EB9-4277-410C-99ED-DBFB1625EA7D}|IMSS\\IMSS.csproj|C:\\Users\\DIEGO\\Documents\\Bootcamp_TICH_SEP_2024\\C_Sharp_POO\\Semana_2\\30-09-2024\\IMSS\\imss\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A509EB9-4277-410C-99ED-DBFB1625EA7D}|IMSS\\IMSS.csproj|solutionrelative:imss\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\DIEGO\\Documents\\Bootcamp_TICH_SEP_2024\\C_Sharp_POO\\Semana_2\\30-09-2024\\IMSS\\IMSS\\Program.cs",
+              "RelativeDocumentMoniker": "IMSS\\Program.cs",
+              "ToolTip": "C:\\Users\\DIEGO\\Documents\\Bootcamp_TICH_SEP_2024\\C_Sharp_POO\\Semana_2\\30-09-2024\\IMSS\\IMSS\\Program.cs",
+              "RelativeToolTip": "IMSS\\Program.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAzwA8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T13:57:11.35Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CalculadoraIMSS.cs",
+              "DocumentMoniker": "C:\\Users\\DIEGO\\Documents\\Bootcamp_TICH_SEP_2024\\C_Sharp_POO\\Semana_2\\30-09-2024\\IMSS\\IMSS\\CalculadoraIMSS.cs",
+              "RelativeDocumentMoniker": "IMSS\\CalculadoraIMSS.cs",
+              "ToolTip": "C:\\Users\\DIEGO\\Documents\\Bootcamp_TICH_SEP_2024\\C_Sharp_POO\\Semana_2\\30-09-2024\\IMSS\\IMSS\\CalculadoraIMSS.cs",
+              "RelativeToolTip": "IMSS\\CalculadoraIMSS.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAgwE4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T13:57:10.453Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Aportaciones.cs",
+              "DocumentMoniker": "C:\\Users\\DIEGO\\Documents\\Bootcamp_TICH_SEP_2024\\C_Sharp_POO\\Semana_2\\30-09-2024\\IMSS\\IMSS\\Aportaciones.cs",
+              "RelativeDocumentMoniker": "IMSS\\Aportaciones.cs",
+              "ToolTip": "C:\\Users\\DIEGO\\Documents\\Bootcamp_TICH_SEP_2024\\C_Sharp_POO\\Semana_2\\30-09-2024\\IMSS\\IMSS\\Aportaciones.cs",
+              "RelativeToolTip": "IMSS\\Aportaciones.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAoAAABcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T00:44:51.956Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

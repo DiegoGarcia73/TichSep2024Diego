@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\DIEGO\\Documents\\Bootcamp_TICH_SEP_2024\\C_Sharp_POO\\Semana_2\\01_10_2024\\MenuGeneral\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2097D7A7-9B56-411D-B307-E8D11EE20DCE}|MenuGeneral\\MenuGeneral.csproj|c:\\users\\diego\\documents\\bootcamp_tich_sep_2024\\c_sharp_poo\\semana_2\\01_10_2024\\menugeneral\\menugeneral\\tabla del isr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2097D7A7-9B56-411D-B307-E8D11EE20DCE}|MenuGeneral\\MenuGeneral.csproj|solutionrelative:menugeneral\\tabla del isr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2097D7A7-9B56-411D-B307-E8D11EE20DCE}|MenuGeneral\\MenuGeneral.csproj|C:\\Users\\DIEGO\\Documents\\Bootcamp_TICH_SEP_2024\\C_Sharp_POO\\Semana_2\\01_10_2024\\MenuGeneral\\menugeneral\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2097D7A7-9B56-411D-B307-E8D11EE20DCE}|MenuGeneral\\MenuGeneral.csproj|solutionrelative:menugeneral\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Tabla del ISR.cs",
+              "DocumentMoniker": "C:\\Users\\DIEGO\\Documents\\Bootcamp_TICH_SEP_2024\\C_Sharp_POO\\Semana_2\\01_10_2024\\MenuGeneral\\MenuGeneral\\Tabla del ISR.cs",
+              "RelativeDocumentMoniker": "MenuGeneral\\Tabla del ISR.cs",
+              "ToolTip": "C:\\Users\\DIEGO\\Documents\\Bootcamp_TICH_SEP_2024\\C_Sharp_POO\\Semana_2\\01_10_2024\\MenuGeneral\\MenuGeneral\\Tabla del ISR.cs",
+              "RelativeToolTip": "MenuGeneral\\Tabla del ISR.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAgwD4AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T19:19:36.54Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\DIEGO\\Documents\\Bootcamp_TICH_SEP_2024\\C_Sharp_POO\\Semana_2\\01_10_2024\\MenuGeneral\\MenuGeneral\\Program.cs",
+              "RelativeDocumentMoniker": "MenuGeneral\\Program.cs",
+              "ToolTip": "C:\\Users\\DIEGO\\Documents\\Bootcamp_TICH_SEP_2024\\C_Sharp_POO\\Semana_2\\01_10_2024\\MenuGeneral\\MenuGeneral\\Program.cs",
+              "RelativeToolTip": "MenuGeneral\\Program.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T18:22:15.435Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

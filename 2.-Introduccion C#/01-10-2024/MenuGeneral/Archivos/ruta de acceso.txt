@@ -1,0 +1,13 @@
+C:\\Users\\DIEGO\\Documents\\Bootcamp_TICH_SEP_2024\\C_Sharp_POO\\Semana_2\\01_10_2024\\MenuGeneral\\MenuGeneral\\Archivos\\archivo.txt
+
+C:\\Users\\DIEGO\\Documents\\Bootcamp_TICH_SEP_2024\\C_Sharp_POO\\Semana_2\\01_10_2024\\MenuGeneral\\MenuGeneral\\Archivos\\alumnos.csv
+
+C:\\Users\\DIEGO\\Documents\\Bootcamp_TICH_SEP_2024\\C_Sharp_POO\\Semana_2\\01_10_2024\\MenuGeneral\\MenuGeneral\\Archivos\\TablaIsr.csv
+
+
+C:\\Users\\DIEGO\\Documents\\Bootcamp_TICH_SEP_2024\\C_Sharp_POO\\Semana_2\\01_10_2024\\MenuGeneral\\MenuGeneral\\bin\Debug\\TablaIsr.csv
+
+
+C:\\Users\DIEGO\\Documents\\Bootcamp_TICH_SEP_2024\\C_Sharp_POO\\Semana_2\\01_10_2024\\MenuGeneral\\MenuGeneral\bin\\Debug\\TablaSR.csv ----esta funciona en el ejercicio 7
+
+C:\\Users\\DIEGO\\Documents\\Bootcamp_TICH_SEP_2024\\C_Sharp_POO\\Semana_2\\01_10_2024\\MenuGeneral\\MenuGeneral\\Archivos\\TablaSR.csv

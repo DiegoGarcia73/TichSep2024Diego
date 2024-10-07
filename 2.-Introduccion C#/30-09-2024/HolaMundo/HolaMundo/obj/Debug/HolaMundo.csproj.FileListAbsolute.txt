@@ -1,0 +1,7 @@
+C:\Users\DIEGO\Documents\Bootcamp TICH SEP-2024\C# y POO\Semana 2\30-09-2024\HolaMundo\HolaMundo\bin\Debug\HolaMundo.exe.config
+C:\Users\DIEGO\Documents\Bootcamp TICH SEP-2024\C# y POO\Semana 2\30-09-2024\HolaMundo\HolaMundo\bin\Debug\HolaMundo.exe
+C:\Users\DIEGO\Documents\Bootcamp TICH SEP-2024\C# y POO\Semana 2\30-09-2024\HolaMundo\HolaMundo\bin\Debug\HolaMundo.pdb
+C:\Users\DIEGO\Documents\Bootcamp TICH SEP-2024\C# y POO\Semana 2\30-09-2024\HolaMundo\HolaMundo\obj\Debug\HolaMundo.csproj.AssemblyReference.cache
+C:\Users\DIEGO\Documents\Bootcamp TICH SEP-2024\C# y POO\Semana 2\30-09-2024\HolaMundo\HolaMundo\obj\Debug\HolaMundo.csproj.CoreCompileInputs.cache
+C:\Users\DIEGO\Documents\Bootcamp TICH SEP-2024\C# y POO\Semana 2\30-09-2024\HolaMundo\HolaMundo\obj\Debug\HolaMundo.exe
+C:\Users\DIEGO\Documents\Bootcamp TICH SEP-2024\C# y POO\Semana 2\30-09-2024\HolaMundo\HolaMundo\obj\Debug\HolaMundo.pdb
