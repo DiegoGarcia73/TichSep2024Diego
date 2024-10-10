@@ -8,12 +8,17 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Configuration;
+using System.IO;
 
 
 namespace Data
 {
     public class DAlumno
     {
+        public static List<Estado> _listaEstados = new List<Estado>(); //Para usar en Linq
+        public static List<Alumno> _listaAlumnos = new List<Alumno>(); //Para usar en Linq
+        public static List<EstatusAlumno> _listaEstatus = new List<EstatusAlumno>(); //Para Usar en Linq
+
         string _cnnString = ConfigurationManager.ConnectionStrings["InstitutoConnection"].ConnectionString;
         string _query;
         SqlCommand comando;
@@ -48,10 +53,23 @@ namespace Data
 
                     });
                 }
+                var innerTablas = from Alumno in _listaAlumnos
+                                  join Estado in _listaEstados
+                                  on Alumno.idEstadoOrigen equals Estado.id
+                                  join Estatus in _listaEstatus
+                                  on Alumno.idEstatus equals Estatus.id
+                                  select new
+                                  {
+                                      idAlumno = Alumno.id,
+                                      nombreAlumno = Alumno.nombre,
+                                      nombreEstado = Estado.nombre,
+                                      nombreEstatus = Estatus.nombre
+                                  };
+
             }
             return _listaAlumno;
         }
-
+            
         public Alumno Consultar(int id)
         {
 
@@ -81,7 +99,7 @@ namespace Data
                             telefono = reader["telefono"].ToString(),
                             fechaNacimiento = Convert.ToDateTime(reader["fechaNacimiento"]),
                             curp = reader["curp"].ToString(),
-                            sueldo = Convert.ToDecimal(reader["sueldo"]),
+                            sueldo = reader["sueldo"]==DBNull.Value ? 0 : Convert.ToDecimal(reader["sueldo"]),
                             idEstadoOrigen = Convert.ToInt32(reader["idEstadoOrigen"]),
                             idEstatus = Convert.ToInt32(reader["idEstatus"])
                         };

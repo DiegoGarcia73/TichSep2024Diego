@@ -1,0 +1,143 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\DIEGO\\Documents\\Bootcamp_TICH_SEP_2024\\WebForms\\Semana 3\\07-10-2024\\ADOWinForms\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BD3AD8DA-8B38-4256-9CFE-CF56479F35B2}|ADOWinForms\\ADOWinForms.csproj|C:\\Users\\DIEGO\\Documents\\Bootcamp_TICH_SEP_2024\\WebForms\\Semana 3\\07-10-2024\\ADOWinForms\\adowinforms\\estatusalumnos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BD3AD8DA-8B38-4256-9CFE-CF56479F35B2}|ADOWinForms\\ADOWinForms.csproj|solutionrelative:adowinforms\\estatusalumnos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD3AD8DA-8B38-4256-9CFE-CF56479F35B2}|ADOWinForms\\ADOWinForms.csproj|c:\\users\\diego\\documents\\bootcamp_tich_sep_2024\\webforms\\semana 3\\07-10-2024\\adowinforms\\adowinforms\\ado\\adoestatusalumno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD3AD8DA-8B38-4256-9CFE-CF56479F35B2}|ADOWinForms\\ADOWinForms.csproj|solutionrelative:adowinforms\\ado\\adoestatusalumno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD3AD8DA-8B38-4256-9CFE-CF56479F35B2}|ADOWinForms\\ADOWinForms.csproj|C:\\Users\\DIEGO\\Documents\\Bootcamp_TICH_SEP_2024\\WebForms\\Semana 3\\07-10-2024\\ADOWinForms\\adowinforms\\estatusalumnos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD3AD8DA-8B38-4256-9CFE-CF56479F35B2}|ADOWinForms\\ADOWinForms.csproj|solutionrelative:adowinforms\\estatusalumnos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD3AD8DA-8B38-4256-9CFE-CF56479F35B2}|ADOWinForms\\ADOWinForms.csproj|C:\\Users\\DIEGO\\Documents\\Bootcamp_TICH_SEP_2024\\WebForms\\Semana 3\\07-10-2024\\ADOWinForms\\adowinforms\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD3AD8DA-8B38-4256-9CFE-CF56479F35B2}|ADOWinForms\\ADOWinForms.csproj|solutionrelative:adowinforms\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD3AD8DA-8B38-4256-9CFE-CF56479F35B2}|ADOWinForms\\ADOWinForms.csproj|C:\\Users\\DIEGO\\Documents\\Bootcamp_TICH_SEP_2024\\WebForms\\Semana 3\\07-10-2024\\ADOWinForms\\adowinforms\\entidades\\estatusalumno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD3AD8DA-8B38-4256-9CFE-CF56479F35B2}|ADOWinForms\\ADOWinForms.csproj|solutionrelative:adowinforms\\entidades\\estatusalumno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD3AD8DA-8B38-4256-9CFE-CF56479F35B2}|ADOWinForms\\ADOWinForms.csproj|C:\\Users\\DIEGO\\Documents\\Bootcamp_TICH_SEP_2024\\WebForms\\Semana 3\\07-10-2024\\ADOWinForms\\adowinforms\\ado\\icrud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD3AD8DA-8B38-4256-9CFE-CF56479F35B2}|ADOWinForms\\ADOWinForms.csproj|solutionrelative:adowinforms\\ado\\icrud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD3AD8DA-8B38-4256-9CFE-CF56479F35B2}|ADOWinForms\\ADOWinForms.csproj|C:\\Users\\DIEGO\\Documents\\Bootcamp_TICH_SEP_2024\\WebForms\\Semana 3\\07-10-2024\\ADOWinForms\\adowinforms\\enumeracion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD3AD8DA-8B38-4256-9CFE-CF56479F35B2}|ADOWinForms\\ADOWinForms.csproj|solutionrelative:adowinforms\\enumeracion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\DIEGO\\Documents\\Bootcamp_TICH_SEP_2024\\WebForms\\Semana 3\\07-10-2024\\ADOWinForms\\ADOWinForms\\Program.cs",
+              "RelativeDocumentMoniker": "ADOWinForms\\Program.cs",
+              "ToolTip": "C:\\Users\\DIEGO\\Documents\\Bootcamp_TICH_SEP_2024\\WebForms\\Semana 3\\07-10-2024\\ADOWinForms\\ADOWinForms\\Program.cs",
+              "RelativeToolTip": "ADOWinForms\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T12:21:05.203Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EstatusAlumno.cs",
+              "DocumentMoniker": "C:\\Users\\DIEGO\\Documents\\Bootcamp_TICH_SEP_2024\\WebForms\\Semana 3\\07-10-2024\\ADOWinForms\\ADOWinForms\\Entidades\\EstatusAlumno.cs",
+              "RelativeDocumentMoniker": "ADOWinForms\\Entidades\\EstatusAlumno.cs",
+              "ToolTip": "C:\\Users\\DIEGO\\Documents\\Bootcamp_TICH_SEP_2024\\WebForms\\Semana 3\\07-10-2024\\ADOWinForms\\ADOWinForms\\Entidades\\EstatusAlumno.cs",
+              "RelativeToolTip": "ADOWinForms\\Entidades\\EstatusAlumno.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T12:53:23.186Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EstatusAlumnos.cs",
+              "DocumentMoniker": "C:\\Users\\DIEGO\\Documents\\Bootcamp_TICH_SEP_2024\\WebForms\\Semana 3\\07-10-2024\\ADOWinForms\\ADOWinForms\\EstatusAlumnos.cs",
+              "RelativeDocumentMoniker": "ADOWinForms\\EstatusAlumnos.cs",
+              "ToolTip": "C:\\Users\\DIEGO\\Documents\\Bootcamp_TICH_SEP_2024\\WebForms\\Semana 3\\07-10-2024\\ADOWinForms\\ADOWinForms\\EstatusAlumnos.cs",
+              "RelativeToolTip": "ADOWinForms\\EstatusAlumnos.cs",
+              "ViewState": "AgIAAEwAAAAAAAAAAAAmwF8AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T13:10:43.203Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ADOEstatusAlumno.cs",
+              "DocumentMoniker": "C:\\Users\\DIEGO\\Documents\\Bootcamp_TICH_SEP_2024\\WebForms\\Semana 3\\07-10-2024\\ADOWinForms\\ADOWinForms\\ADO\\ADOEstatusAlumno.cs",
+              "RelativeDocumentMoniker": "ADOWinForms\\ADO\\ADOEstatusAlumno.cs",
+              "ToolTip": "C:\\Users\\DIEGO\\Documents\\Bootcamp_TICH_SEP_2024\\WebForms\\Semana 3\\07-10-2024\\ADOWinForms\\ADOWinForms\\ADO\\ADOEstatusAlumno.cs",
+              "RelativeToolTip": "ADOWinForms\\ADO\\ADOEstatusAlumno.cs",
+              "ViewState": "AgIAAEYAAAAAAAAAAAAywHQAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T12:54:52.639Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EstatusAlumnos.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\DIEGO\\Documents\\Bootcamp_TICH_SEP_2024\\WebForms\\Semana 3\\07-10-2024\\ADOWinForms\\ADOWinForms\\EstatusAlumnos.cs",
+              "RelativeDocumentMoniker": "ADOWinForms\\EstatusAlumnos.cs",
+              "ToolTip": "C:\\Users\\DIEGO\\Documents\\Bootcamp_TICH_SEP_2024\\WebForms\\Semana 3\\07-10-2024\\ADOWinForms\\ADOWinForms\\EstatusAlumnos.cs [Dise\u00F1o]",
+              "RelativeToolTip": "ADOWinForms\\EstatusAlumnos.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T13:05:15.313Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Enumeracion.cs",
+              "DocumentMoniker": "C:\\Users\\DIEGO\\Documents\\Bootcamp_TICH_SEP_2024\\WebForms\\Semana 3\\07-10-2024\\ADOWinForms\\ADOWinForms\\Enumeracion.cs",
+              "RelativeDocumentMoniker": "ADOWinForms\\Enumeracion.cs",
+              "ToolTip": "C:\\Users\\DIEGO\\Documents\\Bootcamp_TICH_SEP_2024\\WebForms\\Semana 3\\07-10-2024\\ADOWinForms\\ADOWinForms\\Enumeracion.cs",
+              "RelativeToolTip": "ADOWinForms\\Enumeracion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T17:04:03.087Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ICRUD.cs",
+              "DocumentMoniker": "C:\\Users\\DIEGO\\Documents\\Bootcamp_TICH_SEP_2024\\WebForms\\Semana 3\\07-10-2024\\ADOWinForms\\ADOWinForms\\ADO\\ICRUD.cs",
+              "RelativeDocumentMoniker": "ADOWinForms\\ADO\\ICRUD.cs",
+              "ToolTip": "C:\\Users\\DIEGO\\Documents\\Bootcamp_TICH_SEP_2024\\WebForms\\Semana 3\\07-10-2024\\ADOWinForms\\ADOWinForms\\ADO\\ICRUD.cs",
+              "RelativeToolTip": "ADOWinForms\\ADO\\ICRUD.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T12:55:09.937Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

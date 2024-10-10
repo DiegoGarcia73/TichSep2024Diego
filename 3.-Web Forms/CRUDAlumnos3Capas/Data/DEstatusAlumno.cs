@@ -23,6 +23,7 @@ namespace Data
             using (SqlConnection conexion = new SqlConnection(_cnnstring))
             {
                 comando.CommandType = CommandType.StoredProcedure;
+                //comando.Parameters.AddWithValue("@idAlumno", -1);
                 conexion.Open();
                 SqlDataReader reader = comando.ExecuteReader();
                 while (reader.Read())

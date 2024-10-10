@@ -1,0 +1,159 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\DIEGO\\Documents\\Bootcamp_TICH_SEP_2024\\WebForms\\Semana 3\\08-10-2024\\ADOWebForms\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EE5E7FD2-9080-4ADE-A1E6-91C9D4B061D8}|ADOWebForms\\ADOWebForms.csproj|C:\\Users\\DIEGO\\Documents\\Bootcamp_TICH_SEP_2024\\WebForms\\Semana 3\\08-10-2024\\ADOWebForms\\adowebforms\\forms\\index.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{EE5E7FD2-9080-4ADE-A1E6-91C9D4B061D8}|ADOWebForms\\ADOWebForms.csproj|solutionrelative:adowebforms\\forms\\index.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE5E7FD2-9080-4ADE-A1E6-91C9D4B061D8}|ADOWebForms\\ADOWebForms.csproj|c:\\users\\diego\\documents\\bootcamp_tich_sep_2024\\webforms\\semana 3\\08-10-2024\\adowebforms\\adowebforms\\forms\\index.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE5E7FD2-9080-4ADE-A1E6-91C9D4B061D8}|ADOWebForms\\ADOWebForms.csproj|solutionrelative:adowebforms\\forms\\index.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE5E7FD2-9080-4ADE-A1E6-91C9D4B061D8}|ADOWebForms\\ADOWebForms.csproj|C:\\Users\\DIEGO\\Documents\\Bootcamp_TICH_SEP_2024\\WebForms\\Semana 3\\08-10-2024\\ADOWebForms\\adowebforms\\ado\\adoestatusalumno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE5E7FD2-9080-4ADE-A1E6-91C9D4B061D8}|ADOWebForms\\ADOWebForms.csproj|solutionrelative:adowebforms\\ado\\adoestatusalumno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE5E7FD2-9080-4ADE-A1E6-91C9D4B061D8}|ADOWebForms\\ADOWebForms.csproj|C:\\Users\\DIEGO\\Documents\\Bootcamp_TICH_SEP_2024\\WebForms\\Semana 3\\08-10-2024\\ADOWebForms\\adowebforms\\forms\\create.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE5E7FD2-9080-4ADE-A1E6-91C9D4B061D8}|ADOWebForms\\ADOWebForms.csproj|solutionrelative:adowebforms\\forms\\create.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE5E7FD2-9080-4ADE-A1E6-91C9D4B061D8}|ADOWebForms\\ADOWebForms.csproj|C:\\Users\\DIEGO\\Documents\\Bootcamp_TICH_SEP_2024\\WebForms\\Semana 3\\08-10-2024\\ADOWebForms\\adowebforms\\forms\\delete.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{EE5E7FD2-9080-4ADE-A1E6-91C9D4B061D8}|ADOWebForms\\ADOWebForms.csproj|solutionrelative:adowebforms\\forms\\delete.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE5E7FD2-9080-4ADE-A1E6-91C9D4B061D8}|ADOWebForms\\ADOWebForms.csproj|C:\\Users\\DIEGO\\Documents\\Bootcamp_TICH_SEP_2024\\WebForms\\Semana 3\\08-10-2024\\ADOWebForms\\adowebforms\\forms\\delete.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE5E7FD2-9080-4ADE-A1E6-91C9D4B061D8}|ADOWebForms\\ADOWebForms.csproj|solutionrelative:adowebforms\\forms\\delete.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE5E7FD2-9080-4ADE-A1E6-91C9D4B061D8}|ADOWebForms\\ADOWebForms.csproj|C:\\Users\\DIEGO\\Documents\\Bootcamp_TICH_SEP_2024\\WebForms\\Semana 3\\08-10-2024\\ADOWebForms\\adowebforms\\forms\\edit.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE5E7FD2-9080-4ADE-A1E6-91C9D4B061D8}|ADOWebForms\\ADOWebForms.csproj|solutionrelative:adowebforms\\forms\\edit.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE5E7FD2-9080-4ADE-A1E6-91C9D4B061D8}|ADOWebForms\\ADOWebForms.csproj|C:\\Users\\DIEGO\\Documents\\Bootcamp_TICH_SEP_2024\\WebForms\\Semana 3\\08-10-2024\\ADOWebForms\\adowebforms\\forms\\details.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE5E7FD2-9080-4ADE-A1E6-91C9D4B061D8}|ADOWebForms\\ADOWebForms.csproj|solutionrelative:adowebforms\\forms\\details.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Details.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\DIEGO\\Documents\\Bootcamp_TICH_SEP_2024\\WebForms\\Semana 3\\08-10-2024\\ADOWebForms\\ADOWebForms\\Forms\\Details.aspx.cs",
+              "RelativeDocumentMoniker": "ADOWebForms\\Forms\\Details.aspx.cs",
+              "ToolTip": "C:\\Users\\DIEGO\\Documents\\Bootcamp_TICH_SEP_2024\\WebForms\\Semana 3\\08-10-2024\\ADOWebForms\\ADOWebForms\\Forms\\Details.aspx.cs",
+              "RelativeToolTip": "ADOWebForms\\Forms\\Details.aspx.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABgAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T22:31:04.967Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\DIEGO\\Documents\\Bootcamp_TICH_SEP_2024\\WebForms\\Semana 3\\08-10-2024\\ADOWebForms\\ADOWebForms\\Forms\\Index.aspx.cs",
+              "RelativeDocumentMoniker": "ADOWebForms\\Forms\\Index.aspx.cs",
+              "ToolTip": "C:\\Users\\DIEGO\\Documents\\Bootcamp_TICH_SEP_2024\\WebForms\\Semana 3\\08-10-2024\\ADOWebForms\\ADOWebForms\\Forms\\Index.aspx.cs",
+              "RelativeToolTip": "ADOWebForms\\Forms\\Index.aspx.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABkAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T19:43:07.46Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.aspx",
+              "DocumentMoniker": "C:\\Users\\DIEGO\\Documents\\Bootcamp_TICH_SEP_2024\\WebForms\\Semana 3\\08-10-2024\\ADOWebForms\\ADOWebForms\\Forms\\Index.aspx",
+              "RelativeDocumentMoniker": "ADOWebForms\\Forms\\Index.aspx",
+              "ToolTip": "C:\\Users\\DIEGO\\Documents\\Bootcamp_TICH_SEP_2024\\WebForms\\Semana 3\\08-10-2024\\ADOWebForms\\ADOWebForms\\Forms\\Index.aspx",
+              "RelativeToolTip": "ADOWebForms\\Forms\\Index.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-10-08T23:37:17.894Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ADOEstatusAlumno.cs",
+              "DocumentMoniker": "C:\\Users\\DIEGO\\Documents\\Bootcamp_TICH_SEP_2024\\WebForms\\Semana 3\\08-10-2024\\ADOWebForms\\ADOWebForms\\ADO\\ADOEstatusAlumno.cs",
+              "RelativeDocumentMoniker": "ADOWebForms\\ADO\\ADOEstatusAlumno.cs",
+              "ToolTip": "C:\\Users\\DIEGO\\Documents\\Bootcamp_TICH_SEP_2024\\WebForms\\Semana 3\\08-10-2024\\ADOWebForms\\ADOWebForms\\ADO\\ADOEstatusAlumno.cs",
+              "RelativeToolTip": "ADOWebForms\\ADO\\ADOEstatusAlumno.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAuwBEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T19:44:56.227Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Edit.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\DIEGO\\Documents\\Bootcamp_TICH_SEP_2024\\WebForms\\Semana 3\\08-10-2024\\ADOWebForms\\ADOWebForms\\Forms\\Edit.aspx.cs",
+              "RelativeDocumentMoniker": "ADOWebForms\\Forms\\Edit.aspx.cs",
+              "ToolTip": "C:\\Users\\DIEGO\\Documents\\Bootcamp_TICH_SEP_2024\\WebForms\\Semana 3\\08-10-2024\\ADOWebForms\\ADOWebForms\\Forms\\Edit.aspx.cs",
+              "RelativeToolTip": "ADOWebForms\\Forms\\Edit.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T23:33:08.631Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Delete.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\DIEGO\\Documents\\Bootcamp_TICH_SEP_2024\\WebForms\\Semana 3\\08-10-2024\\ADOWebForms\\ADOWebForms\\Forms\\Delete.aspx.cs",
+              "RelativeDocumentMoniker": "ADOWebForms\\Forms\\Delete.aspx.cs",
+              "ToolTip": "C:\\Users\\DIEGO\\Documents\\Bootcamp_TICH_SEP_2024\\WebForms\\Semana 3\\08-10-2024\\ADOWebForms\\ADOWebForms\\Forms\\Delete.aspx.cs",
+              "RelativeToolTip": "ADOWebForms\\Forms\\Delete.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T23:46:13.03Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Delete.aspx",
+              "DocumentMoniker": "C:\\Users\\DIEGO\\Documents\\Bootcamp_TICH_SEP_2024\\WebForms\\Semana 3\\08-10-2024\\ADOWebForms\\ADOWebForms\\Forms\\Delete.aspx",
+              "RelativeDocumentMoniker": "ADOWebForms\\Forms\\Delete.aspx",
+              "ToolTip": "C:\\Users\\DIEGO\\Documents\\Bootcamp_TICH_SEP_2024\\WebForms\\Semana 3\\08-10-2024\\ADOWebForms\\ADOWebForms\\Forms\\Delete.aspx",
+              "RelativeToolTip": "ADOWebForms\\Forms\\Delete.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-10-08T23:46:10.174Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Create.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\DIEGO\\Documents\\Bootcamp_TICH_SEP_2024\\WebForms\\Semana 3\\08-10-2024\\ADOWebForms\\ADOWebForms\\Forms\\Create.aspx.cs",
+              "RelativeDocumentMoniker": "ADOWebForms\\Forms\\Create.aspx.cs",
+              "ToolTip": "C:\\Users\\DIEGO\\Documents\\Bootcamp_TICH_SEP_2024\\WebForms\\Semana 3\\08-10-2024\\ADOWebForms\\ADOWebForms\\Forms\\Create.aspx.cs",
+              "RelativeToolTip": "ADOWebForms\\Forms\\Create.aspx.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABoAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T22:56:54.07Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

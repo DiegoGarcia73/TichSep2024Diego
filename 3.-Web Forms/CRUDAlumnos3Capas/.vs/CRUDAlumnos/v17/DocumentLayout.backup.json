@@ -3,52 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\DIEGO\\Documents\\Bootcamp_TICH_SEP_2024\\WebForms\\Semana 3\\08-10-2024\\CRUDAlumnos3Capas\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5C2FDDB6-50B2-40E6-80AA-73F970158225}|Presentation\\Presentation.csproj|c:\\users\\diego\\documents\\bootcamp_tich_sep_2024\\webforms\\semana 3\\08-10-2024\\crudalumnos3capas\\presentation\\alumnos\\delete.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5C2FDDB6-50B2-40E6-80AA-73F970158225}|Presentation\\Presentation.csproj|solutionrelative:presentation\\alumnos\\delete.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8DBE5408-2016-47AF-8DAD-F4B4CC4DE445}|Data\\Data.csproj|C:\\Users\\DIEGO\\Documents\\Bootcamp_TICH_SEP_2024\\WebForms\\Semana 3\\08-10-2024\\CRUDAlumnos3Capas\\data\\dalumno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8DBE5408-2016-47AF-8DAD-F4B4CC4DE445}|Data\\Data.csproj|solutionrelative:data\\dalumno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{5C2FDDB6-50B2-40E6-80AA-73F970158225}|Presentation\\Presentation.csproj|c:\\users\\diego\\documents\\bootcamp_tich_sep_2024\\webforms\\semana 3\\08-10-2024\\crudalumnos3capas\\presentation\\alumnos\\edit.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5C2FDDB6-50B2-40E6-80AA-73F970158225}|Presentation\\Presentation.csproj|solutionrelative:presentation\\alumnos\\edit.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5C2FDDB6-50B2-40E6-80AA-73F970158225}|Presentation\\Presentation.csproj|c:\\users\\diego\\documents\\bootcamp_tich_sep_2024\\webforms\\semana 3\\08-10-2024\\crudalumnos3capas\\presentation\\alumnos\\create.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8DBE5408-2016-47AF-8DAD-F4B4CC4DE445}|Data\\Data.csproj|C:\\Users\\DIEGO\\Documents\\Bootcamp_TICH_SEP_2024\\WebForms\\Semana 3\\08-10-2024\\CRUDAlumnos3Capas\\data\\destatusalumno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DBE5408-2016-47AF-8DAD-F4B4CC4DE445}|Data\\Data.csproj|solutionrelative:data\\destatusalumno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DBE5408-2016-47AF-8DAD-F4B4CC4DE445}|Data\\Data.csproj|c:\\users\\diego\\documents\\bootcamp_tich_sep_2024\\webforms\\semana 3\\08-10-2024\\crudalumnos3capas\\data\\dalumno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DBE5408-2016-47AF-8DAD-F4B4CC4DE445}|Data\\Data.csproj|solutionrelative:data\\dalumno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C2FDDB6-50B2-40E6-80AA-73F970158225}|Presentation\\Presentation.csproj|C:\\Users\\DIEGO\\Documents\\Bootcamp_TICH_SEP_2024\\WebForms\\Semana 3\\08-10-2024\\CRUDAlumnos3Capas\\presentation\\alumnos\\create.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5C2FDDB6-50B2-40E6-80AA-73F970158225}|Presentation\\Presentation.csproj|solutionrelative:presentation\\alumnos\\create.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5C2FDDB6-50B2-40E6-80AA-73F970158225}|Presentation\\Presentation.csproj|c:\\users\\diego\\documents\\bootcamp_tich_sep_2024\\webforms\\semana 3\\08-10-2024\\crudalumnos3capas\\presentation\\alumnos\\details.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5C2FDDB6-50B2-40E6-80AA-73F970158225}|Presentation\\Presentation.csproj|solutionrelative:presentation\\alumnos\\details.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5C2FDDB6-50B2-40E6-80AA-73F970158225}|Presentation\\Presentation.csproj|c:\\users\\diego\\documents\\bootcamp_tich_sep_2024\\webforms\\semana 3\\08-10-2024\\crudalumnos3capas\\presentation\\alumnos\\index.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5C2FDDB6-50B2-40E6-80AA-73F970158225}|Presentation\\Presentation.csproj|C:\\Users\\DIEGO\\Documents\\Bootcamp_TICH_SEP_2024\\WebForms\\Semana 3\\08-10-2024\\CRUDAlumnos3Capas\\presentation\\alumnos\\index.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5C2FDDB6-50B2-40E6-80AA-73F970158225}|Presentation\\Presentation.csproj|solutionrelative:presentation\\alumnos\\index.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B9649C6D-99AF-472C-AF23-F00E87AD5920}|BusinessLogic\\BusinessLogic.csproj|c:\\users\\diego\\documents\\bootcamp_tich_sep_2024\\webforms\\semana 3\\08-10-2024\\crudalumnos3capas\\businesslogic\\nalumno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B9649C6D-99AF-472C-AF23-F00E87AD5920}|BusinessLogic\\BusinessLogic.csproj|solutionrelative:businesslogic\\nalumno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1FD913EE-E832-423A-96E6-D52DADB1A2E2}|Entities\\Entities.csproj|c:\\users\\diego\\documents\\bootcamp_tich_sep_2024\\webforms\\semana 3\\08-10-2024\\crudalumnos3capas\\entities\\alumno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1FD913EE-E832-423A-96E6-D52DADB1A2E2}|Entities\\Entities.csproj|solutionrelative:entities\\alumno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B9649C6D-99AF-472C-AF23-F00E87AD5920}|BusinessLogic\\BusinessLogic.csproj|c:\\users\\diego\\documents\\bootcamp_tich_sep_2024\\webforms\\semana 3\\08-10-2024\\crudalumnos3capas\\businesslogic\\nestatusalumno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B9649C6D-99AF-472C-AF23-F00E87AD5920}|BusinessLogic\\BusinessLogic.csproj|solutionrelative:businesslogic\\nestatusalumno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B9649C6D-99AF-472C-AF23-F00E87AD5920}|BusinessLogic\\BusinessLogic.csproj|c:\\users\\diego\\documents\\bootcamp_tich_sep_2024\\webforms\\semana 3\\08-10-2024\\crudalumnos3capas\\businesslogic\\nestado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B9649C6D-99AF-472C-AF23-F00E87AD5920}|BusinessLogic\\BusinessLogic.csproj|solutionrelative:businesslogic\\nestado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8DBE5408-2016-47AF-8DAD-F4B4CC4DE445}|Data\\Data.csproj|C:\\Users\\DIEGO\\Documents\\Bootcamp_TICH_SEP_2024\\WebForms\\Semana 3\\08-10-2024\\CRUDAlumnos3Capas\\data\\destado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8DBE5408-2016-47AF-8DAD-F4B4CC4DE445}|Data\\Data.csproj|c:\\users\\diego\\documents\\bootcamp_tich_sep_2024\\webforms\\semana 3\\08-10-2024\\crudalumnos3capas\\data\\destado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8DBE5408-2016-47AF-8DAD-F4B4CC4DE445}|Data\\Data.csproj|solutionrelative:data\\destado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8DBE5408-2016-47AF-8DAD-F4B4CC4DE445}|Data\\Data.csproj|C:\\Users\\DIEGO\\Documents\\Bootcamp_TICH_SEP_2024\\WebForms\\Semana 3\\08-10-2024\\CRUDAlumnos3Capas\\data\\destatusalumno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8DBE5408-2016-47AF-8DAD-F4B4CC4DE445}|Data\\Data.csproj|solutionrelative:data\\destatusalumno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -70,67 +46,54 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 5,
               "Title": "DEstado.cs",
               "DocumentMoniker": "C:\\Users\\DIEGO\\Documents\\Bootcamp_TICH_SEP_2024\\WebForms\\Semana 3\\08-10-2024\\CRUDAlumnos3Capas\\Data\\DEstado.cs",
               "RelativeDocumentMoniker": "Data\\DEstado.cs",
               "ToolTip": "C:\\Users\\DIEGO\\Documents\\Bootcamp_TICH_SEP_2024\\WebForms\\Semana 3\\08-10-2024\\CRUDAlumnos3Capas\\Data\\DEstado.cs",
               "RelativeToolTip": "Data\\DEstado.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABAAAAAbAAAAAAAAAA==",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwBkAAAA+AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-09T04:11:05.126Z",
+              "WhenOpened": "2024-10-10T12:06:08.784Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "NAlumno.cs",
-              "DocumentMoniker": "C:\\Users\\DIEGO\\Documents\\Bootcamp_TICH_SEP_2024\\WebForms\\Semana 3\\08-10-2024\\CRUDAlumnos3Capas\\BusinessLogic\\NAlumno.cs",
-              "RelativeDocumentMoniker": "BusinessLogic\\NAlumno.cs",
-              "ToolTip": "C:\\Users\\DIEGO\\Documents\\Bootcamp_TICH_SEP_2024\\WebForms\\Semana 3\\08-10-2024\\CRUDAlumnos3Capas\\BusinessLogic\\NAlumno.cs",
-              "RelativeToolTip": "BusinessLogic\\NAlumno.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAywBMAAAAMAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "DEstatusAlumno.cs",
+              "DocumentMoniker": "C:\\Users\\DIEGO\\Documents\\Bootcamp_TICH_SEP_2024\\WebForms\\Semana 3\\08-10-2024\\CRUDAlumnos3Capas\\Data\\DEstatusAlumno.cs",
+              "RelativeDocumentMoniker": "Data\\DEstatusAlumno.cs",
+              "ToolTip": "C:\\Users\\DIEGO\\Documents\\Bootcamp_TICH_SEP_2024\\WebForms\\Semana 3\\08-10-2024\\CRUDAlumnos3Capas\\Data\\DEstatusAlumno.cs",
+              "RelativeToolTip": "Data\\DEstatusAlumno.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwBkAAABAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-09T13:50:25.544Z",
+              "WhenOpened": "2024-10-10T04:32:00.173Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Edit.aspx.cs",
-              "DocumentMoniker": "C:\\Users\\DIEGO\\Documents\\Bootcamp_TICH_SEP_2024\\WebForms\\Semana 3\\08-10-2024\\CRUDAlumnos3Capas\\Presentation\\Alumnos\\Edit.aspx.cs",
-              "RelativeDocumentMoniker": "Presentation\\Alumnos\\Edit.aspx.cs",
-              "ToolTip": "C:\\Users\\DIEGO\\Documents\\Bootcamp_TICH_SEP_2024\\WebForms\\Semana 3\\08-10-2024\\CRUDAlumnos3Capas\\Presentation\\Alumnos\\Edit.aspx.cs",
-              "RelativeToolTip": "Presentation\\Alumnos\\Edit.aspx.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABQAAAAIAAAAAAAAAA==",
+              "Title": "DAlumno.cs",
+              "DocumentMoniker": "C:\\Users\\DIEGO\\Documents\\Bootcamp_TICH_SEP_2024\\WebForms\\Semana 3\\08-10-2024\\CRUDAlumnos3Capas\\Data\\DAlumno.cs",
+              "RelativeDocumentMoniker": "Data\\DAlumno.cs",
+              "ToolTip": "C:\\Users\\DIEGO\\Documents\\Bootcamp_TICH_SEP_2024\\WebForms\\Semana 3\\08-10-2024\\CRUDAlumnos3Capas\\Data\\DAlumno.cs",
+              "RelativeToolTip": "Data\\DAlumno.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAQwA4AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-09T16:19:46.975Z",
+              "WhenOpened": "2024-10-10T03:40:53.068Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Delete.aspx.cs",
-              "DocumentMoniker": "C:\\Users\\DIEGO\\Documents\\Bootcamp_TICH_SEP_2024\\WebForms\\Semana 3\\08-10-2024\\CRUDAlumnos3Capas\\Presentation\\Alumnos\\Delete.aspx.cs",
-              "RelativeDocumentMoniker": "Presentation\\Alumnos\\Delete.aspx.cs",
-              "ToolTip": "C:\\Users\\DIEGO\\Documents\\Bootcamp_TICH_SEP_2024\\WebForms\\Semana 3\\08-10-2024\\CRUDAlumnos3Capas\\Presentation\\Alumnos\\Delete.aspx.cs",
-              "RelativeToolTip": "Presentation\\Alumnos\\Delete.aspx.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAFAAAAAAAAAA==",
+              "Title": "Edit.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\DIEGO\\Documents\\Bootcamp_TICH_SEP_2024\\WebForms\\Semana 3\\08-10-2024\\CRUDAlumnos3Capas\\Presentation\\Alumnos\\Edit.aspx.cs",
+              "RelativeDocumentMoniker": "Presentation\\Alumnos\\Edit.aspx.cs",
+              "ToolTip": "C:\\Users\\DIEGO\\Documents\\Bootcamp_TICH_SEP_2024\\WebForms\\Semana 3\\08-10-2024\\CRUDAlumnos3Capas\\Presentation\\Alumnos\\Edit.aspx.cs",
+              "RelativeToolTip": "Presentation\\Alumnos\\Edit.aspx.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAAwC4AAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-09T16:22:52.071Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Details.aspx.cs",
-              "DocumentMoniker": "C:\\Users\\DIEGO\\Documents\\Bootcamp_TICH_SEP_2024\\WebForms\\Semana 3\\08-10-2024\\CRUDAlumnos3Capas\\Presentation\\Alumnos\\Details.aspx.cs",
-              "RelativeDocumentMoniker": "Presentation\\Alumnos\\Details.aspx.cs",
-              "ToolTip": "C:\\Users\\DIEGO\\Documents\\Bootcamp_TICH_SEP_2024\\WebForms\\Semana 3\\08-10-2024\\CRUDAlumnos3Capas\\Presentation\\Alumnos\\Details.aspx.cs",
-              "RelativeToolTip": "Presentation\\Alumnos\\Details.aspx.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAtwBQAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-09T16:15:51.953Z",
+              "WhenOpened": "2024-10-10T11:57:33.596Z",
               "EditorCaption": ""
             },
             {
@@ -141,87 +104,22 @@
               "RelativeDocumentMoniker": "Presentation\\Alumnos\\Create.aspx.cs",
               "ToolTip": "C:\\Users\\DIEGO\\Documents\\Bootcamp_TICH_SEP_2024\\WebForms\\Semana 3\\08-10-2024\\CRUDAlumnos3Capas\\Presentation\\Alumnos\\Create.aspx.cs",
               "RelativeToolTip": "Presentation\\Alumnos\\Create.aspx.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAcwB4AAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAxwCEAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-09T13:48:43.975Z",
+              "WhenOpened": "2024-10-10T04:22:31.492Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "DAlumno.cs",
-              "DocumentMoniker": "C:\\Users\\DIEGO\\Documents\\Bootcamp_TICH_SEP_2024\\WebForms\\Semana 3\\08-10-2024\\CRUDAlumnos3Capas\\Data\\DAlumno.cs",
-              "RelativeDocumentMoniker": "Data\\DAlumno.cs",
-              "ToolTip": "C:\\Users\\DIEGO\\Documents\\Bootcamp_TICH_SEP_2024\\WebForms\\Semana 3\\08-10-2024\\CRUDAlumnos3Capas\\Data\\DAlumno.cs",
-              "RelativeToolTip": "Data\\DAlumno.cs",
-              "ViewState": "AgIAAI0AAAAAAAAAAAAxwKIAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-09T04:11:03.516Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "NEstado.cs",
-              "DocumentMoniker": "C:\\Users\\DIEGO\\Documents\\Bootcamp_TICH_SEP_2024\\WebForms\\Semana 3\\08-10-2024\\CRUDAlumnos3Capas\\BusinessLogic\\NEstado.cs",
-              "RelativeDocumentMoniker": "BusinessLogic\\NEstado.cs",
-              "ToolTip": "C:\\Users\\DIEGO\\Documents\\Bootcamp_TICH_SEP_2024\\WebForms\\Semana 3\\08-10-2024\\CRUDAlumnos3Capas\\BusinessLogic\\NEstado.cs",
-              "RelativeToolTip": "BusinessLogic\\NEstado.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAgAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-09T16:30:50.712Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "NEstatusAlumno.cs",
-              "DocumentMoniker": "C:\\Users\\DIEGO\\Documents\\Bootcamp_TICH_SEP_2024\\WebForms\\Semana 3\\08-10-2024\\CRUDAlumnos3Capas\\BusinessLogic\\NEstatusAlumno.cs",
-              "RelativeDocumentMoniker": "BusinessLogic\\NEstatusAlumno.cs",
-              "ToolTip": "C:\\Users\\DIEGO\\Documents\\Bootcamp_TICH_SEP_2024\\WebForms\\Semana 3\\08-10-2024\\CRUDAlumnos3Capas\\BusinessLogic\\NEstatusAlumno.cs",
-              "RelativeToolTip": "BusinessLogic\\NEstatusAlumno.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-09T16:34:51.939Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Alumno.cs",
-              "DocumentMoniker": "C:\\Users\\DIEGO\\Documents\\Bootcamp_TICH_SEP_2024\\WebForms\\Semana 3\\08-10-2024\\CRUDAlumnos3Capas\\Entities\\Alumno.cs",
-              "RelativeDocumentMoniker": "Entities\\Alumno.cs",
-              "ToolTip": "C:\\Users\\DIEGO\\Documents\\Bootcamp_TICH_SEP_2024\\WebForms\\Semana 3\\08-10-2024\\CRUDAlumnos3Capas\\Entities\\Alumno.cs",
-              "RelativeToolTip": "Entities\\Alumno.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAwAAAAqAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-09T14:22:46.538Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "DEstatusAlumno.cs",
-              "DocumentMoniker": "C:\\Users\\DIEGO\\Documents\\Bootcamp_TICH_SEP_2024\\WebForms\\Semana 3\\08-10-2024\\CRUDAlumnos3Capas\\Data\\DEstatusAlumno.cs",
-              "RelativeDocumentMoniker": "Data\\DEstatusAlumno.cs",
-              "ToolTip": "C:\\Users\\DIEGO\\Documents\\Bootcamp_TICH_SEP_2024\\WebForms\\Semana 3\\08-10-2024\\CRUDAlumnos3Capas\\Data\\DEstatusAlumno.cs",
-              "RelativeToolTip": "Data\\DEstatusAlumno.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAB0AAABVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-09T04:11:04.263Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 4,
               "Title": "Index.aspx.cs",
               "DocumentMoniker": "C:\\Users\\DIEGO\\Documents\\Bootcamp_TICH_SEP_2024\\WebForms\\Semana 3\\08-10-2024\\CRUDAlumnos3Capas\\Presentation\\Alumnos\\Index.aspx.cs",
               "RelativeDocumentMoniker": "Presentation\\Alumnos\\Index.aspx.cs",
               "ToolTip": "C:\\Users\\DIEGO\\Documents\\Bootcamp_TICH_SEP_2024\\WebForms\\Semana 3\\08-10-2024\\CRUDAlumnos3Capas\\Presentation\\Alumnos\\Index.aspx.cs",
               "RelativeToolTip": "Presentation\\Alumnos\\Index.aspx.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABcAAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAE8AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-09T12:35:50.338Z",
+              "WhenOpened": "2024-10-10T04:19:23.267Z",
               "EditorCaption": ""
             }
           ]

@@ -18,11 +18,12 @@ namespace Data
         public List<Estado> Consultar()
         {
             List <Estado> listaEstado = new List<Estado>();
-            _query = $"sp_consultarEstados";
+            _query = $"consultarEstados";
             using (SqlConnection conexion = new SqlConnection(_cnnstring))
             {
                 comando = new SqlCommand(_query, conexion);
                 comando.CommandType = CommandType.StoredProcedure;
+                comando.Parameters.AddWithValue("@idEstado", 0);
                 conexion.Open();
                 SqlDataReader reader = comando.ExecuteReader();
 

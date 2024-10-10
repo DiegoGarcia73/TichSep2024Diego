@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Formulario de Alumno</title>
+   
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <img class="imgTich" src="img/logo.png">
+        <h1>Alumnos</h1>
+        <form id="alumnoForm">
+            <div class="form-group">
+                <label for="id">ID:</label>
+                <input type="text" id="id" name="id" />
+            </div>
+            <div class="form-group">
+                <label for="nombre">Nombre:</label>
+                <input type="text" id="nombre" name="nombre" disabled />
+            </div>
+            <div class="form-group">
+                <label for="edad">Edad:</label>
+                <input type="number" id="edad" name="edad" disabled />
+            </div>
+            <div class="form-group">
+                <label for="estado">Estado de Origen:</label>
+                <select id="estado" name="estado" disabled>
+                    <option value="" selected disabled>Selecciona un estado</option>
+                    <option value="estado1">Jalisco</option>
+                    <option value="estado2">Oaxaca</option>
+                    <option value="estado3">Puebla</option>
+                    <option value="estado3">Guadalajara</option>
+                    <option value="estado3">Sonora</option>
+                    <option value="estado3">Nuevo León</option>
+                    
+                </select>
+            </div>
+            <div class="form-group">
+                <input type="checkbox" id="activoCheck" disabled />
+                <label for="activoCheck">Estatus</label>
+            </div>
+            <div class="form-group">
+                <button type="button" id="consultarBtn">Consultar</button>
+                <button type="button" id="guardarBtn" disabled>Guardar</button>
+            </div>
+        </form>
+
+    </div>
+    <script src="Alumnos.js"></script>
+</body>
+</html>
