@@ -47,31 +47,43 @@
             <dd class="col-sm-10">
                 <asp:Label ID="lblDefFechaNacimiento" runat="server" Text=""></asp:Label>
             </dd>
-            <dt class = "col-sm-2 text-end">
+            <dt class="col-sm-2 text-end">
                 <asp:Label ID="lblCurp" runat="server" Text="Curp"></asp:Label>
             </dt>
             <dd class="col-sm-10">
                 <asp:Label ID="lblDefCurp" runat="server" Text=""></asp:Label>
             </dd>
-            <dt class = "col-sm-2 text-end">
+            <dt class="col-sm-2 text-end">
                 <asp:Label ID="lblSueldo" runat="server" Text="Sueldo"></asp:Label>
             </dt>
             <dd class="col-sm-10">
                 <asp:Label ID="lblDefSueldo" runat="server" Text=""></asp:Label>
             </dd>
-            <dt class = "col-sm-2 text-end">
-                <asp:Label ID="lblIdEstadoOrigen" runat="server" Text="lblIdEstadoOrigen"></asp:Label>
+            <dt class="col-sm-2 text-end">
+                <asp:Label ID="lblIdEstadoOrigen" runat="server" Text="Estado de Origen"></asp:Label>
             </dt>
             <dd class="col-sm-10">
                 <asp:Label ID="lblDefIdEstadoOrigen" runat="server" Text=""></asp:Label>
             </dd>
-            <dt class = "col-sm-2 text-end">
-                <asp:Label ID="lblIdEstatus" runat="server" Text="lblEstatus"></asp:Label>
+            <dt class="col-sm-2 text-end">
+                <asp:Label ID="lblIdEstatus" runat="server" Text="Estatus"></asp:Label>
             </dt>
             <dd class="col-sm-10">
                 <asp:Label ID="lblDefIdEstatus" runat="server" Text=""></asp:Label>
             </dd>
         </dl>
+    </div>
+    <div class="form-group">
+        <div class="col-md-2">
+
+            <asp:Button ID="btnCalcularIMSS" class="btn btn-primary" runat="server" Text="CalcularIMSS" OnClick="btnCalcularIMSS_Click"/>
+            <asp:Button ID="btnCalcularISR" class="btn btn-secondary" runat="server" Text="CalcularISR" OnClick="btnCalcularISR_Click" />
+                <br />
+        </div>
+        <div class="col text-end">
+     <asp:Label ID="lblIMSSeISR" runat="server" Text=""></asp:Label>
+        </div>
+
     </div>
     <div class="form-group">
         <div class="col-md-7">

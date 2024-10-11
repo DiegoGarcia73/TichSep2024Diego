@@ -15,17 +15,14 @@ namespace Data
 {
     public class DAlumno
     {
-        public static List<Estado> _listaEstados = new List<Estado>(); //Para usar en Linq
-        public static List<Alumno> _listaAlumnos = new List<Alumno>(); //Para usar en Linq
-        public static List<EstatusAlumno> _listaEstatus = new List<EstatusAlumno>(); //Para Usar en Linq
-
+       
         string _cnnString = ConfigurationManager.ConnectionStrings["InstitutoConnection"].ConnectionString;
         string _query;
         SqlCommand comando;
 
         public List<Alumno> Consultar()
         {
-            List<Alumno> _listaAlumno = new List<Alumno>();
+            List<Alumno> listaAlumno = new List<Alumno>();
 
             _query = $"consultarEAlumnos";
             using (SqlConnection con = new SqlConnection(_cnnString))
@@ -37,7 +34,7 @@ namespace Data
                 SqlDataReader reader = comando.ExecuteReader();
                 while (reader.Read())
                 {
-                    _listaAlumno.Add(new Alumno()
+                    listaAlumno.Add(new Alumno()
                     {
                         id = Convert.ToInt32(reader["id"]),
                         nombre = reader["nombre"].ToString(),
@@ -53,21 +50,10 @@ namespace Data
 
                     });
                 }
-                var innerTablas = from Alumno in _listaAlumnos
-                                  join Estado in _listaEstados
-                                  on Alumno.idEstadoOrigen equals Estado.id
-                                  join Estatus in _listaEstatus
-                                  on Alumno.idEstatus equals Estatus.id
-                                  select new
-                                  {
-                                      idAlumno = Alumno.id,
-                                      nombreAlumno = Alumno.nombre,
-                                      nombreEstado = Estado.nombre,
-                                      nombreEstatus = Estatus.nombre
-                                  };
-
+                
             }
-            return _listaAlumno;
+            return listaAlumno;
+           
         }
             
         public Alumno Consultar(int id)
@@ -178,6 +164,34 @@ namespace Data
                 comando.ExecuteNonQuery();
                 conexion.Close();
             }
+        }
+
+        List<ItemTablaISR> _listaItemISR = new List<ItemTablaISR>();
+
+        public List<ItemTablaISR> ConsultarTablaISR()
+        {
+            _query = $"select * from TablaISR";
+            using (SqlConnection conexion = new SqlConnection(_cnnString))
+            {
+                comando = new SqlCommand(_query , conexion);
+                comando.CommandType = CommandType.Text;
+                conexion.Open();
+                SqlDataReader reader = comando.ExecuteReader();
+
+                while (reader.Read())
+                {
+                    _listaItemISR.Add(new ItemTablaISR()
+                    {
+                        LimiteInferior = Convert.ToDecimal(reader["LimInf"]),
+                        LimiteSuperior = Convert.ToDecimal(reader["LimSup"]),
+                        CuotaFija = Convert.ToDecimal(reader["CuotaFija"]),
+                        Excedente = Convert.ToDecimal(reader["ExedLimInf"]),
+                        Subsidio = Convert.ToDecimal(reader["Subsidio"])
+
+                    });
+                }
+            }
+            return _listaItemISR;
         }
     }
 }

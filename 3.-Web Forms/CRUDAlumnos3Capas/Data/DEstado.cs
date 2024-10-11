@@ -23,7 +23,7 @@ namespace Data
             {
                 comando = new SqlCommand(_query, conexion);
                 comando.CommandType = CommandType.StoredProcedure;
-                comando.Parameters.AddWithValue("@idEstado", 0);
+                comando.Parameters.AddWithValue("@idEstado", -1);
                 conexion.Open();
                 SqlDataReader reader = comando.ExecuteReader();
 

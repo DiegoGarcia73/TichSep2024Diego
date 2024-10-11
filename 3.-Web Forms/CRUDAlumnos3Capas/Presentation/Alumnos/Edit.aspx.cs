@@ -37,6 +37,7 @@ namespace Presentation.Alumnos
                 ddlEstados.DataSource = listaEstados;
                 ddlEstados.DataTextField = "nombre";
                 ddlEstados.DataValueField = "id";
+                ddlEstados.SelectedValue = Convert.ToString(oAlumno.idEstadoOrigen);
                 ddlEstados.DataBind();
 
                 List<EstatusAlumno> listaEstatus = new List<EstatusAlumno>();
@@ -45,6 +46,7 @@ namespace Presentation.Alumnos
                 ddlEstatus.DataSource = listaEstatus;
                 ddlEstatus.DataTextField = "nombre";
                 ddlEstatus.DataValueField = "id";
+                ddlEstatus.SelectedValue = Convert.ToString(oAlumno.idEstatus);
                 ddlEstatus.DataBind();
             }
             

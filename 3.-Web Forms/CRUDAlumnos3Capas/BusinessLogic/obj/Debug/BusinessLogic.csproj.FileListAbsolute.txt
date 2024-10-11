@@ -81,3 +81,5 @@ C:\Users\DIEGO\Documents\Bootcamp_TICH_SEP_2024\WebForms\Semana 3\08-10-2024\CRU
 C:\Users\DIEGO\Documents\Bootcamp_TICH_SEP_2024\WebForms\Semana 3\08-10-2024\CRUDAlumnos3Capas\BusinessLogic\bin\Debug\System.Threading.Tasks.Extensions.xml
 C:\Users\DIEGO\Documents\Bootcamp_TICH_SEP_2024\WebForms\Semana 3\08-10-2024\CRUDAlumnos3Capas\BusinessLogic\bin\Debug\System.ValueTuple.xml
 C:\Users\DIEGO\Documents\Bootcamp_TICH_SEP_2024\WebForms\Semana 3\08-10-2024\CRUDAlumnos3Capas\BusinessLogic\obj\Debug\Business.CF5D6E35.Up2Date
+C:\Users\DIEGO\Documents\Bootcamp_TICH_SEP_2024\WebForms\Semana 3\08-10-2024\CRUDAlumnos3Capas\BusinessLogic\bin\Debug\Newtonsoft.Json.dll
+C:\Users\DIEGO\Documents\Bootcamp_TICH_SEP_2024\WebForms\Semana 3\08-10-2024\CRUDAlumnos3Capas\BusinessLogic\bin\Debug\Newtonsoft.Json.xml

@@ -14,8 +14,8 @@
             <asp:BoundField DataField="segundoApellido" HeaderText="Segundo Apellido" />
             <asp:BoundField DataField="correo" HeaderText="Correo" />
             <asp:BoundField DataField="telefono" HeaderText="Teléfono" />
-            <asp:BoundField DataField="idEstadoOrigen" HeaderText="Estado" />
-            <asp:BoundField DataField="idEstatus" HeaderText="Estatus" />
+            <asp:BoundField DataField="nombreEstado" HeaderText="Estado" />
+            <asp:BoundField DataField="nombreEstatus" HeaderText="Estatus" />
             <asp:ButtonField CommandName="btnDetalles" Text="Detalles">
                 <ControlStyle CssClass="btn btn-warning btn-sm" />
             </asp:ButtonField>

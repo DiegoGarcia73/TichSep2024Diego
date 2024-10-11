@@ -60,13 +60,13 @@
                 <asp:Label ID="lblDefSueldo" runat="server" Text=""></asp:Label>
             </dd>
             <dt class="col-sm-2 text-end">
-                <asp:Label ID="lblIdEstadoOrigen" runat="server" Text="lblIdEstadoOrigen"></asp:Label>
+                <asp:Label ID="lblIdEstadoOrigen" runat="server" Text="Estado de Origen"></asp:Label>
             </dt>
             <dd class="col-sm-10">
                 <asp:Label ID="lblDefIdEstadoOrigen" runat="server" Text=""></asp:Label>
             </dd>
             <dt class="col-sm-2 text-end">
-                <asp:Label ID="lblIdEstatus" runat="server" Text="lblEstatus"></asp:Label>
+                <asp:Label ID="lblIdEstatus" runat="server" Text="Estatus"></asp:Label>
             </dt>
             <dd class="col-sm-10">
                 <asp:Label ID="lblDefIdEstatus" runat="server" Text=""></asp:Label>

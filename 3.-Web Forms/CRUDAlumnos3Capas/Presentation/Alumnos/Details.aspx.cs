@@ -13,10 +13,15 @@ namespace Presentation.Alumnos
     public partial class Details : System.Web.UI.Page
     {
         NAlumno _NAlumno = new NAlumno();
+        NEstatusAlumno _NEstatusAlumno = new NEstatusAlumno();
+        NEstado _NEstado = new NEstado();
+        
         protected void Page_Load(object sender, EventArgs e)
         {
             int id = int.Parse(Request.QueryString["id"] ?? "2");
-            Alumno oAlumno = _NAlumno.Consultar(id);
+            Entities.Alumno oAlumno = _NAlumno.Consultar(id);
+            List<Estado> oListaEstado = _NEstado.Consultar();
+            List<EstatusAlumno> oListaEstatus = _NEstatusAlumno.Consultar();
 
             lblDefID.Text = oAlumno.id.ToString();
             lblDefNombre.Text = oAlumno.nombre;
@@ -27,10 +32,29 @@ namespace Presentation.Alumnos
             lblDefFechaNacimiento.Text = oAlumno.fechaNacimiento.ToString("yyyy-MM-dd");
             lblDefCurp.Text = oAlumno.curp;
             lblDefSueldo.Text = oAlumno.sueldo.ToString();
-            lblDefIdEstadoOrigen.Text = oAlumno.idEstadoOrigen.ToString();
-            lblDefIdEstatus.Text = oAlumno.idEstatus.ToString();
+            Estado oEstado = oListaEstado.Find(x => x.id == oAlumno.idEstadoOrigen); //Creación de objeto de tipo Estado nombre del objeto oEstado
+            lblDefIdEstadoOrigen.Text = oEstado.nombre;
+            lblDefIdEstatus.Text = oListaEstatus.Find(x=> x.id == oAlumno.idEstatus).nombre;
 
 
+
+        }
+
+        protected void btnCalcularIMSS_Click(object sender, EventArgs e)
+        {
+            AportacionesIMSS aportacionesIMSS = new AportacionesIMSS();
+            aportacionesIMSS = _NAlumno.CalcularIMSS(Convert.ToInt16(lblDefID.Text));
+            lblIMSSeISR.Text = $"Enfermedades y Maternidad: {aportacionesIMSS.EnfermedadMaternidad:C2} Invalidez y Vida: {aportacionesIMSS.InvalidezVida:C2} Retiro: {aportacionesIMSS.Retiro:C2}" +
+                $" Cesantia: {aportacionesIMSS.Cesantia:C2} Credito Infonavit {aportacionesIMSS.Infonavit:C2}";
+
+        }
+
+        protected void btnCalcularISR_Click(object sender, EventArgs e)
+        {
+            ItemTablaISR itemTablaISR = new ItemTablaISR();
+            itemTablaISR = _NAlumno.CalcularISR(Convert.ToInt16(lblDefID.Text));
+            lblIMSSeISR.Text = $"Limite Inferior: {itemTablaISR.LimiteInferior:C2} Limite Superior: {itemTablaISR.LimiteSuperior:C2} Cuota Fija: {itemTablaISR.CuotaFija:C2} Excedentes Limite Superior: {itemTablaISR.Excedente:C2}" +
+                $" Subsidio: {itemTablaISR.Subsidio:C2} Impuesto: {itemTablaISR.ISR:C2} ";
         }
     }
 }

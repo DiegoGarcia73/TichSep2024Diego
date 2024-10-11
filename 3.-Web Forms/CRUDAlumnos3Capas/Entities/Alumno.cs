@@ -21,6 +21,5 @@ namespace Entities
         public int idEstadoOrigen { get; set; }
         public int idEstatus { get; set; }
 
-
     }
 }
