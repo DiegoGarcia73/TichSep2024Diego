@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+</head>
+<body>
+	
+
+	<h2>JQuery</h2>
+	<h3>Titulos</h3>
+	<p><span>Alumno</span> en capacitación</p>
+	<p>Desarrollo Web<span>TICH</span>.</p>		
+	<div id="titinstrucciones" class="bg-success text-white">Instruciones...</div>
+	<div id="instrucciones" class="text-primary" style="display: none;">Llenar el siguiente formato con informacion veridica</div>
+	<br>			
+	<p>Nombre: <input type="text" id="nombre"></p>
+	<p class="text-success error">Error en el nombre</p>
+    <p>edad: <input type="number" id="edad"></p>
+	<p class="text-success error">Error en la edad</p>
+	<p>Fecha Nacimiento: <input type="date" id="fechaNac"></p>
+	<p class="text-success error">Error en la fecha de nacimiento</p>
+
+	<select id="estado">
+		<option value="1">Aguascalientes</option>
+		<option value="2">Baja California</option>
+		<option value="3">Baja California Sur</option>
+  	</select>
+  <br>
+  <p>Habilidades:</p>
+ 	 <ul>
+	  <li>HTML</li>
+	  <li>CSS</li>
+	  <li>JavaScript</li>
+	  <li>JQuery</li>
+	</ul>
+	<p id="generales" class="text-primary">Mostar Nombre Edad y Fecha Nacimiento</p>
+	<p id="habilidades" class="text-primary">Mostrar Habilidades</p>
+	<button id="aceptar">Aceptar</button>
+</body>
+
+</html>
+
+<script>
+	/*1. 1. Al momento de cargar la página realizar lo siguiente:
+	a. Ocultar los párrafos con clase de error
+	b. Cambie el encabezado que tiene la palabra Titulo por el de: TI Capital Humano (TICH) */
+	$(document).ready(function(){
+    $(".error").hide();
+    $("h3").html("TI Capital Humano <strong>(TICH)</strong>");
+
+	/*2. Asignar una función al evento clic del botón con id “aceptar” para que al hacer clic realice lo siguiente:
+    
+	a. Muestre en el párrafo con id “generales”, los valores ingresados en los inputs de nombre, edad, 
+	fecha de nacimiento y estado */
+
+    	$("#aceptar").click(function(){
+        $("#generales").text
+		(
+			$("#nombre").val() + $("input[id='edad']").val() + $("#fechaNac").val() + $("#estado").children("option:selected").text()
+		).val();
+
+		/* b. Muestre en el párrafo con id “habilidades” las habilidades listadas en la lista no ordenada, 
+		separadas por un punto y coma (;) */
+		var cadena = " ";
+		$("li").each(function(){
+			cadena = cadena + $(this).text() + " ; ";
+		})
+		$("#habilidades").text(cadena);
+		
+		/* c. Asignar un método clic a todos los párrafos con clase error para que se oculte precisamente 
+		al momento de dar el clic sobre él */
+		$("p.error").click(function(){
+			$(this).hide();
+		});
+
+		$(".error").show();
+
+		/* d. Cambiar la clase text-success a text-danger a todos los párrafos con clase error */
+
+		$("p.error").removeClass("text-success");
+		$("p.error").addClass("text-danger");
+		
+		/* e. Cambiar el atributo color a azul de los span que se encuentran dentro de los párrafos */
+		$("p").find("span").css("color", "blue");
+    });
+		
+		/* 3. Agregar al elemento que muestra los estados, el método correspondiente para que al cambiar 
+		su valor muestre mediante un alert el número y nombre del estado seleccionado */ 
+		$("#estado").change(function(){
+			var estadoSeleccionado = $(this).children("option:selected").val();
+			var estadoSeleccionadoTexto = $(this).children("option:selected").text();
+			alert ("Seleccionaste " + estadoSeleccionado + " " + estadoSeleccionadoTexto);
+		})
+
+		/* 4. Agregar los métodos necesarios a la div instrucciones a fin de que se muestre y oculte la 
+		div instrucciones cuando ingresa o sale de él, respectivamente. */
+		$("#titinstrucciones").mouseenter(function(){
+			$("#instrucciones").css("display", "block");
+		});
+
+		$("#titinstrucciones").mouseleave(function(){
+			$("#instrucciones").css("display", "none");
+		})
+  });
+
+</script>
