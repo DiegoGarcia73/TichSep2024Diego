@@ -76,10 +76,6 @@ C:\Users\DIEGO\Documents\Bootcamp_TICH_SEP_2024\WindowsForms\Semana 3\08-10-2024
 C:\Users\DIEGO\Documents\Bootcamp_TICH_SEP_2024\WindowsForms\Semana 3\08-10-2024\HolaMundo3Capas\Presentation\obj\Debug\Presenta.BC777DBE.Up2Date
 C:\Users\DIEGO\Documents\Bootcamp_TICH_SEP_2024\WindowsForms\Semana 3\08-10-2024\HolaMundo3Capas\Presentation\obj\Debug\Presentation.dll
 C:\Users\DIEGO\Documents\Bootcamp_TICH_SEP_2024\WindowsForms\Semana 3\08-10-2024\HolaMundo3Capas\Presentation\obj\Debug\Presentation.pdb
-C:\Users\DIEGO\Documents\Bootcamp_TICH_SEP_2024\WebForms\Semana 3\08-10-2024\CRUDAlumnos3Capas\Presentation\obj\Debug\Presentation.csproj.AssemblyReference.cache
-C:\Users\DIEGO\Documents\Bootcamp_TICH_SEP_2024\WebForms\Semana 3\08-10-2024\CRUDAlumnos3Capas\Presentation\obj\Debug\Presentation.csproj.CoreCompileInputs.cache
-C:\Users\DIEGO\Documents\Bootcamp_TICH_SEP_2024\WebForms\Semana 3\08-10-2024\CRUDAlumnos3Capas\Presentation\obj\Debug\Presentation.dll
-C:\Users\DIEGO\Documents\Bootcamp_TICH_SEP_2024\WebForms\Semana 3\08-10-2024\CRUDAlumnos3Capas\Presentation\obj\Debug\Presentation.pdb
 C:\Users\DIEGO\Documents\Bootcamp_TICH_SEP_2024\WebForms\Semana 3\08-10-2024\CRUDAlumnos3Capas\Presentation\bin\Presentation.dll.config
 C:\Users\DIEGO\Documents\Bootcamp_TICH_SEP_2024\WebForms\Semana 3\08-10-2024\CRUDAlumnos3Capas\Presentation\bin\Presentation.dll
 C:\Users\DIEGO\Documents\Bootcamp_TICH_SEP_2024\WebForms\Semana 3\08-10-2024\CRUDAlumnos3Capas\Presentation\bin\Presentation.pdb
@@ -156,4 +152,8 @@ C:\Users\DIEGO\Documents\Bootcamp_TICH_SEP_2024\WebForms\Semana 3\08-10-2024\CRU
 C:\Users\DIEGO\Documents\Bootcamp_TICH_SEP_2024\WebForms\Semana 3\08-10-2024\CRUDAlumnos3Capas\Presentation\bin\Data.pdb
 C:\Users\DIEGO\Documents\Bootcamp_TICH_SEP_2024\WebForms\Semana 3\08-10-2024\CRUDAlumnos3Capas\Presentation\bin\es\System.Web.Optimization.resources.dll
 C:\Users\DIEGO\Documents\Bootcamp_TICH_SEP_2024\WebForms\Semana 3\08-10-2024\CRUDAlumnos3Capas\Presentation\bin\es\Microsoft.AspNet.FriendlyUrls.resources.dll
+C:\Users\DIEGO\Documents\Bootcamp_TICH_SEP_2024\WebForms\Semana 3\08-10-2024\CRUDAlumnos3Capas\Presentation\obj\Debug\Presentation.csproj.AssemblyReference.cache
+C:\Users\DIEGO\Documents\Bootcamp_TICH_SEP_2024\WebForms\Semana 3\08-10-2024\CRUDAlumnos3Capas\Presentation\obj\Debug\Presentation.csproj.CoreCompileInputs.cache
 C:\Users\DIEGO\Documents\Bootcamp_TICH_SEP_2024\WebForms\Semana 3\08-10-2024\CRUDAlumnos3Capas\Presentation\obj\Debug\Presenta.BC777DBE.Up2Date
+C:\Users\DIEGO\Documents\Bootcamp_TICH_SEP_2024\WebForms\Semana 3\08-10-2024\CRUDAlumnos3Capas\Presentation\obj\Debug\Presentation.dll
+C:\Users\DIEGO\Documents\Bootcamp_TICH_SEP_2024\WebForms\Semana 3\08-10-2024\CRUDAlumnos3Capas\Presentation\obj\Debug\Presentation.pdb

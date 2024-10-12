@@ -41,6 +41,7 @@ namespace Presentation.Alumnos
             _listaEstatus = _NEstatusAlumno.Consultar();
             _listaEstados = _NEstado.Consultar();
 
+            //Uso de Linq
             var innerTablas = (from Alumno in _listaAlumnos
                                join Estado in _listaEstados
                                on Alumno.idEstadoOrigen equals Estado.id

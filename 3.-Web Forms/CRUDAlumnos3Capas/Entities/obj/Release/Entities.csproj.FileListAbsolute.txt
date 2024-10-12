@@ -1,0 +1,6 @@
+C:\Users\DIEGO\Documents\Bootcamp_TICH_SEP_2024\WebForms\Semana 3\08-10-2024\CRUDAlumnos3Capas\Entities\bin\Release\Entities.dll
+C:\Users\DIEGO\Documents\Bootcamp_TICH_SEP_2024\WebForms\Semana 3\08-10-2024\CRUDAlumnos3Capas\Entities\bin\Release\Entities.pdb
+C:\Users\DIEGO\Documents\Bootcamp_TICH_SEP_2024\WebForms\Semana 3\08-10-2024\CRUDAlumnos3Capas\Entities\obj\Release\Entities.csproj.AssemblyReference.cache
+C:\Users\DIEGO\Documents\Bootcamp_TICH_SEP_2024\WebForms\Semana 3\08-10-2024\CRUDAlumnos3Capas\Entities\obj\Release\Entities.csproj.CoreCompileInputs.cache
+C:\Users\DIEGO\Documents\Bootcamp_TICH_SEP_2024\WebForms\Semana 3\08-10-2024\CRUDAlumnos3Capas\Entities\obj\Release\Entities.dll
+C:\Users\DIEGO\Documents\Bootcamp_TICH_SEP_2024\WebForms\Semana 3\08-10-2024\CRUDAlumnos3Capas\Entities\obj\Release\Entities.pdb

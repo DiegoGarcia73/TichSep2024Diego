@@ -44,8 +44,23 @@ namespace Presentation.Alumnos
         {
             AportacionesIMSS aportacionesIMSS = new AportacionesIMSS();
             aportacionesIMSS = _NAlumno.CalcularIMSS(Convert.ToInt16(lblDefID.Text));
-            lblIMSSeISR.Text = $"Enfermedades y Maternidad: {aportacionesIMSS.EnfermedadMaternidad:C2} Invalidez y Vida: {aportacionesIMSS.InvalidezVida:C2} Retiro: {aportacionesIMSS.Retiro:C2}" +
-                $" Cesantia: {aportacionesIMSS.Cesantia:C2} Credito Infonavit {aportacionesIMSS.Infonavit:C2}";
+
+            lblEnfermedadyMaternidad.Text = aportacionesIMSS.EnfermedadMaternidad.ToString();
+            lblInvalidezyVida.Text = aportacionesIMSS.InvalidezVida.ToString();
+            lblRetiro.Text = aportacionesIMSS.Retiro.ToString();
+            lblCesantia.Text = aportacionesIMSS.Cesantia.ToString();
+            lblInfonavit.Text = aportacionesIMSS.Infonavit.ToString();
+
+            string script1 = @"<script type='text/javascript'> 
+                              $(function(){
+                                $('#modalIMSS').modal('show')
+                                                });
+                                            </script>";
+
+            ScriptManager.RegisterStartupScript(this, GetType(), "VentanaModalIMSS", script1, false);
+
+            //lblIMSSeISR.Text = $"Enfermedades y Maternidad: {aportacionesIMSS.EnfermedadMaternidad:C2} Invalidez y Vida: {aportacionesIMSS.InvalidezVida:C2} Retiro: {aportacionesIMSS.Retiro:C2}" +
+            //    $" Cesantia: {aportacionesIMSS.Cesantia:C2} Credito Infonavit {aportacionesIMSS.Infonavit:C2}";
 
         }
 
@@ -53,8 +68,24 @@ namespace Presentation.Alumnos
         {
             ItemTablaISR itemTablaISR = new ItemTablaISR();
             itemTablaISR = _NAlumno.CalcularISR(Convert.ToInt16(lblDefID.Text));
-            lblIMSSeISR.Text = $"Limite Inferior: {itemTablaISR.LimiteInferior:C2} Limite Superior: {itemTablaISR.LimiteSuperior:C2} Cuota Fija: {itemTablaISR.CuotaFija:C2} Excedentes Limite Superior: {itemTablaISR.Excedente:C2}" +
-                $" Subsidio: {itemTablaISR.Subsidio:C2} Impuesto: {itemTablaISR.ISR:C2} ";
+
+            lblLimInferior.Text = itemTablaISR.LimiteInferior.ToString();
+            lblLimSuperior.Text = itemTablaISR.LimiteSuperior.ToString();
+            lblCuotaFija.Text = itemTablaISR.CuotaFija.ToString();
+            lblExcedente.Text = itemTablaISR.Excedente.ToString();
+            lblSubsidio.Text = itemTablaISR.Subsidio.ToString();   
+            lblISR.Text = itemTablaISR.ISR.ToString();
+
+            string script = @"<script type='text/javascript'> 
+                              $(function(){
+                                $('#modalISR').modal('show')
+                                                });
+                                            </script>";
+
+            ScriptManager.RegisterStartupScript(this, GetType(), "MuestraVentanaModal", script, false);
+
+            //lblIMSSeISR.Text = $"Limite Inferior: {itemTablaISR.LimiteInferior:C2} Limite Superior: {itemTablaISR.LimiteSuperior:C2} Cuota Fija: {itemTablaISR.CuotaFija:C2} Excedentes Limite Superior: {itemTablaISR.Excedente:C2}" +
+            //    $" Subsidio: {itemTablaISR.Subsidio:C2} Impuesto: {itemTablaISR.ISR:C2} ";
         }
     }
 }
