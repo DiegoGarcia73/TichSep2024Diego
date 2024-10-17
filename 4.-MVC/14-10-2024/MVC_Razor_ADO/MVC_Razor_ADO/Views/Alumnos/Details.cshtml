@@ -1,0 +1,82 @@
+﻿@using Entities;
+@model MVC_Razor_ADO.Models.EstadoEstatus
+@{
+    ViewBag.Title = "Details";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div>
+    <h2>Datos del Alumno</h2>
+
+    <dl class="row">
+        <dt class="col-sm-2 text-end">
+            @Html.LabelFor(m => m.id)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(m => m.id)
+        </dd>
+        <dt class="col-sm-2 text-end">
+            @Html.LabelFor(m => m.nombre)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(m => m.nombre)
+        </dd>
+        <dt class="col-sm-2 text-end">
+            @Html.LabelFor(m => m.primerApellido)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(m => m.primerApellido)
+        </dd>
+        <dt class="col-sm-2 text-end">
+            @Html.LabelFor(m => m.segundoApellido)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(m => m.segundoApellido)
+        </dd>
+        <dt class="col-sm-2 text-end">
+            @Html.LabelFor(m => m.correo)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(m => m.correo)
+        </dd>
+        <dt class="col-sm-2 text-end">
+            @Html.LabelFor(m => m.telefono)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(m => m.telefono)
+        </dd>
+        <dt class="col-sm-2 text-end">
+            @Html.LabelFor(m => m.fechaNacimiento)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(m => m.fechaNacimiento)
+        </dd>
+        <dt class="col-sm-2 text-end">
+            @Html.LabelFor(m => m.curp)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(m => m.curp)
+        </dd>
+        <dt class="col-sm-2 text-end">
+            @Html.LabelFor(m => m.sueldo)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(m => m.sueldo)
+        </dd>
+        <dt class="col-sm-2 text-end">
+            @Html.LabelFor(m => m.nombreEstado)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(m => m.nombreEstado)
+        </dd>
+        <dt class="col-sm-2 text-end">
+            @Html.LabelFor(m => m.nombreEstatus)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(m => m.nombreEstatus)
+        </dd>
+    </dl>
+    <div>
+        @Html.ActionLink("Volver a la lista", "Index")
+    </div>
+</div>

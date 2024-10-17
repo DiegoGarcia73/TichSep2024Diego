@@ -1,0 +1,13 @@
+C:\Users\DIEGO\Documents\Bootcamp_TICH_SEP_2024\MVC\Semana 4\16-10-2024\WCFAlumnos\WCFAlumnos\bin\WCFAlumnos.dll.config
+C:\Users\DIEGO\Documents\Bootcamp_TICH_SEP_2024\MVC\Semana 4\16-10-2024\WCFAlumnos\WCFAlumnos\bin\WCFAlumnos.dll
+C:\Users\DIEGO\Documents\Bootcamp_TICH_SEP_2024\MVC\Semana 4\16-10-2024\WCFAlumnos\WCFAlumnos\bin\WCFAlumnos.pdb
+C:\Users\DIEGO\Documents\Bootcamp_TICH_SEP_2024\MVC\Semana 4\16-10-2024\WCFAlumnos\WCFAlumnos\bin\BusinessLogic.dll
+C:\Users\DIEGO\Documents\Bootcamp_TICH_SEP_2024\MVC\Semana 4\16-10-2024\WCFAlumnos\WCFAlumnos\bin\Data.dll
+C:\Users\DIEGO\Documents\Bootcamp_TICH_SEP_2024\MVC\Semana 4\16-10-2024\WCFAlumnos\WCFAlumnos\bin\Entities.dll
+C:\Users\DIEGO\Documents\Bootcamp_TICH_SEP_2024\MVC\Semana 4\16-10-2024\WCFAlumnos\WCFAlumnos\bin\Newtonsoft.Json.dll
+C:\Users\DIEGO\Documents\Bootcamp_TICH_SEP_2024\MVC\Semana 4\16-10-2024\WCFAlumnos\WCFAlumnos\obj\Debug\WCFAlumnos.csproj.AssemblyReference.cache
+C:\Users\DIEGO\Documents\Bootcamp_TICH_SEP_2024\MVC\Semana 4\16-10-2024\WCFAlumnos\WCFAlumnos\obj\Debug\WCFAlumnos.csproj.CoreCompileInputs.cache
+C:\Users\DIEGO\Documents\Bootcamp_TICH_SEP_2024\MVC\Semana 4\16-10-2024\WCFAlumnos\WCFAlumnos\obj\Debug\WCFAlumnos.csproj.Up2Date
+C:\Users\DIEGO\Documents\Bootcamp_TICH_SEP_2024\MVC\Semana 4\16-10-2024\WCFAlumnos\WCFAlumnos\obj\Debug\WCFAlumnos.dll
+C:\Users\DIEGO\Documents\Bootcamp_TICH_SEP_2024\MVC\Semana 4\16-10-2024\WCFAlumnos\WCFAlumnos\obj\Debug\WCFAlumnos.pdb
+C:\Users\DIEGO\Documents\Bootcamp_TICH_SEP_2024\MVC\Semana 4\16-10-2024\WCFAlumnos\WCFAlumnos\bin\Newtonsoft.Json.xml

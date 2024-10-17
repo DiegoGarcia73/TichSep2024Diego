@@ -1,0 +1,7 @@
+C:\Users\DIEGO\Documents\Bootcamp_TICH_SEP_2024\MVC\Semana 4\16-10-2024\HolaMundoWCF\HolaMundoWCF\bin\HolaMundoWCF.dll.config
+C:\Users\DIEGO\Documents\Bootcamp_TICH_SEP_2024\MVC\Semana 4\16-10-2024\HolaMundoWCF\HolaMundoWCF\bin\HolaMundoWCF.dll
+C:\Users\DIEGO\Documents\Bootcamp_TICH_SEP_2024\MVC\Semana 4\16-10-2024\HolaMundoWCF\HolaMundoWCF\bin\HolaMundoWCF.pdb
+C:\Users\DIEGO\Documents\Bootcamp_TICH_SEP_2024\MVC\Semana 4\16-10-2024\HolaMundoWCF\HolaMundoWCF\obj\Debug\HolaMundoWCF.csproj.AssemblyReference.cache
+C:\Users\DIEGO\Documents\Bootcamp_TICH_SEP_2024\MVC\Semana 4\16-10-2024\HolaMundoWCF\HolaMundoWCF\obj\Debug\HolaMundoWCF.csproj.CoreCompileInputs.cache
+C:\Users\DIEGO\Documents\Bootcamp_TICH_SEP_2024\MVC\Semana 4\16-10-2024\HolaMundoWCF\HolaMundoWCF\obj\Debug\HolaMundoWCF.dll
+C:\Users\DIEGO\Documents\Bootcamp_TICH_SEP_2024\MVC\Semana 4\16-10-2024\HolaMundoWCF\HolaMundoWCF\obj\Debug\HolaMundoWCF.pdb

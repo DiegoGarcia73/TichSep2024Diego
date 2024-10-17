@@ -1,0 +1,14 @@
+﻿
+@{
+    ViewBag.Title = "AccesaObjeto";
+}
+
+@{
+
+    RazorMVC.Models.Alumno mAlumno = new RazorMVC.Models.Alumno { id = 5, nombre = "Jorge", idEstado = 20 };
+}
+<h2>Accesa Objeto</h2>
+<p>id: @mAlumno.id</p>
+<p>Nombre: @mAlumno.nombre</p>
+<p>idEstado: @mAlumno.idEstado</p>
+

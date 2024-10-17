@@ -1,0 +1,88 @@
+﻿@using Entities;
+@model Alumno
+@{
+    ViewBag.Title = "Create";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="row justify-content">
+    <h2>Agregar Alumno</h2>
+    <hr />
+    @Html.HiddenFor(m=>m.id)
+    @using (Html.BeginForm())
+    {
+        <div class="col-md-5">
+            <div class="mb-2 row form-group">
+                @Html.LabelFor(m => m.nombre, htmlAttributes: new { @class = "control-label col-md-5 fw-bold text-end" })
+                <div class="col-md-7">
+                    @Html.EditorFor(m => m.nombre, new { htmlAttributes = new { @class = "col-md-9" } })
+                </div>
+            </div>
+            <div class="mb-2 row form-group">
+                @Html.LabelFor(m => m.primerApellido, htmlAttributes: new { @class = "control-label col-md-5 fw-bold text-end" })
+                <div class="col-md-7">
+                    @Html.EditorFor(m => m.primerApellido, new { htmlAttributes = new { @class = "col-md-9" } })
+                </div>
+            </div>
+            <div class="mb-2 row form-group">
+                @Html.LabelFor(m => m.segundoApellido, htmlAttributes: new { @class = "control-label col-md-5 fw-bold text-end" })
+                <div class="col-md-7">
+                    @Html.EditorFor(m => m.segundoApellido, new { htmlAttributes = new { @class = "col-md-9" } })
+                </div>
+            </div>
+            <div class="mb-2 row form-group">
+                @Html.LabelFor(m => m.correo, htmlAttributes: new { @class = "control-label col-md-5 fw-bold text-end" })
+                <div class="col-md-7">
+                    @Html.EditorFor(m => m.correo, new { htmlAttributes = new { @class = "col-md-9" } })
+                </div>
+            </div>
+            <div class="mb-2 row form-group">
+                @Html.LabelFor(m => m.telefono, htmlAttributes: new { @class = "control-label col-md-5 fw-bold text-end" })
+                <div class="col-md-7">
+                    @Html.EditorFor(m => m.telefono, new { htmlAttributes = new { @class = "col-md-9" } })
+                </div>
+            </div>
+            <div class="mb-2 row form-group">
+                @Html.LabelFor(m => m.fechaNacimiento, htmlAttributes: new { @class = "control-label col-md-5 fw-bold text-end" })
+                <div class="col-md-7">
+                    @Html.EditorFor(m => m.fechaNacimiento, new { htmlAttributes = new { @class = "col-md-9" } })
+                </div>
+            </div>
+            <div class="mb-2 row form-group">
+                @Html.LabelFor(m => m.curp, htmlAttributes: new { @class = "control-label col-md-5 fw-bold text-end" })
+                <div class="col-md-7">
+                    @Html.EditorFor(m => m.curp, new { htmlAttributes = new { @class = "col-md-9" } })
+                </div>
+            </div>
+            <div class="mb-2 row form-group">
+                @Html.LabelFor(m => m.sueldo, htmlAttributes: new { @class = "control-label col-md-5 fw-bold text-end" })
+                <div class="col-md-7">
+                    @Html.EditorFor(m => m.sueldo, new { htmlAttributes = new { @class = "col-md-9" } })
+                </div>
+            </div>
+            <div class="mb-2 row form-group">
+                @Html.LabelFor(m => m.idEstadoOrigen, htmlAttributes: new { @class = "control-label col-md-5 fw-bold text-end" })
+                <div class="col-md-7">
+                    @Html.DropDownListFor(m => m.idEstadoOrigen, (SelectList)ViewBag.Estado, new { @class = "col-md-9" })
+                </div>
+            </div>
+            <div class="mb-2 row form-group">
+                @Html.LabelFor(m => m.idEstatus, htmlAttributes: new { @class = "control-label col-md-5 fw-bold text-end" })
+                <div class="col-md-7">
+                    @Html.DropDownListFor(m => m.idEstatus, (SelectList)ViewBag.Estatus, new { @class = "col-md-9" })
+                </div>
+            </div>
+            <div class="mb-2 row form-group">
+                <div class="col-md-2">
+                    <input id="btnGuardar" type="submit" value="Guardar" class="btn btn-secondary" />
+                </div>
+            </div>
+            <div class="mb-2 row form-group">
+                <div class="col-md-7">
+                    @Html.ActionLink("Volver a la lista", "Index")
+                </div>
+            </div>
+        </div>
+    }
+
+</div>

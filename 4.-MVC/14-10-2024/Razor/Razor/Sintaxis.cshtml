@@ -1,0 +1,47 @@
+﻿
+@{
+    ViewBag.Title = "Sintaxis";
+}
+
+<h2>Sintaxis</h2>
+<h2>@ViewBag.Encabezado</h2>
+<h3>@ViewData["EncabezadoVD"]</h3>
+<p>
+    <!-- Los comentarios se esciben como sigue-->
+    <!-- @* comentario*@ -->
+    @* Los bloques de código Razor están encerrados en @ {...} *@
+    <!-- Las declaraciones de código terminan con punto y coma -->
+    <!-- Las variables se declaran con la palabra clave var -->
+    <!-- Las cadenas están entre comillas -->
+</p>
+
+@{ var mensaje = "Hola Mundo"; }
+
+<!-- El código distingue entre mayúsculas y minúsculas -->
+@{ var Mensaje = "Otro Hola Mundo"; }
+@{Mensaje = Mensaje + ". Como estás?"; }
+<!-- Las expresiones en línea (variables y funciones) comienzan con Arroba-->
+<p>Este es el valor del mensaje: @mensaje</p>
+<p>Este es el valor del Mensaje: @Mensaje</p>
+<!-- Block multi proposición Todo lo que se encuentra en en el bloque se ejecuta en el lado del servidor-->
+@{
+    var saludo = "Este es mi primer Razor!";
+    var Hoy = DateTime.Now;
+    var mensajeBlock = saludo + " en la CDMX siendo: " + Hoy;
+}
+<!-- En las líneas de expression, son sin punto y coma -->
+<p>Mensaje: @mensajeBlock</p>
+
+<!-- Incluir una diagonal invertida en un string -->
+@{ var Path = @"C:\Razor\"; }
+<p>The path is: @Path</p>
+
+<!-- incluir dobles comillas en un string -->
+@{ var miSaludo = @"""Hola Mundo de nuevo"""; }
+<p>@miSaludo</p>
+
+<!-- Accesando el objeto Request -->
+<p> El Request.Url: @Request.Url</p>
+<p> El Request.FilePath: @Request.FilePath</p>
+<p> Request.MapPath(Request.FilePath): @Request.MapPath(Request.FilePath)</p>
+<p> Request.RequestType: @Request.RequestType</p>

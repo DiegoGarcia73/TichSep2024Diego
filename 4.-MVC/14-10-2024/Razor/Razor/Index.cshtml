@@ -1,0 +1,31 @@
+﻿
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+@* @Html.ActionLink("Texto del Link","Nombre Acción",Parametros, htmlAttributes) *@
+<ol>
+    <li>@Html.ActionLink("Sintaxis", "Sintaxis")</li>
+    <li>@Html.ActionLink("GetPost", "GetPost")</li>
+    <li>@Html.ActionLink("Calculadora", "Calculadora")</li>
+
+    <li>@Html.ActionLink("Logica - Bucles", "LogicaBucles")</li>
+    <li>@Html.ActionLink("Helpers", "Helpers")</li>
+
+
+    <li>@Html.ActionLink("Accesa Objeto", "AccesaObjeto")</li>
+    <li>@Html.ActionLink("Accesa Modelo", "AccesaModelo")</li>
+    <li>@Html.ActionLink("Accesa Lista de Objetos", "AccesaListaObjetos")</li>
+
+    <li>@Html.ActionLink("Formulario", "Formulario")</li>
+
+    <li>@Html.ActionLink("Recibe Parametro ID", "RecibeParametroID", new { @id = 3 })</li>
+    <li>@Html.ActionLink("Recibe Parametros", "RecibeParametros", new { @id = 3, @nombre = "Jorge" })</li>
+    <li>@Html.ActionLink("Recibe id,nombre,edad", "RecibeEdad", new { @id = 3, @nombre = "Jorge", @edad = 25 })</li>
+    <li>@Html.ActionLink("Consultar Estados", "Consultar", "Estado", new { @id = 3, @nombre = "Baja California" }, null)</li>
+    <li>@Html.ActionLink("Actualizar Estados", "Actualizar", "Estado", new { @id = 3, @nombre = "Baja California" }, null)</li>
+    <li>@Html.ActionLink("Estilos ", "Estilos")</li>
+</ol>
+<br />
+

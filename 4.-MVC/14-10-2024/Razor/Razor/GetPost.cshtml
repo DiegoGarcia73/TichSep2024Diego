@@ -1,0 +1,28 @@
+﻿
+@{
+    ViewBag.Title = "GetPost";
+}
+@{
+    var resultado = "";
+    if (IsPost)
+    {
+        string control;
+        //En la variable de tipo String control, almacenamos el nombre del control que ha producido el PostBack
+        control = Request.Params["boton"];
+        resultado = $"Esta página fue posteada usando el botón {control} . Método Http: " + Request.RequestType;
+    }
+    else
+    {
+        resultado = "Esta fue la primera vez que se requirió la página. Método Http: " + Request.RequestType;
+    }
+}
+<h2>GetPost</h2>
+
+<form action="" method="post">
+    <p>Request.Params["nombre"] Recupera el parámetro indicado</p>
+    <p>Request.RequestType Contiene el tipo de requerimiento GET o POST</p>
+    <p>IsPost variable de ambiente que indica si es el Requerimieto es tipo Post</p>
+    <input type="Submit" id="idenviar" name="boton" value="Enviar" />
+    <input type="Submit" id="idaceptar" name="boton" value="Aceptar" />
+    <p>@resultado</p>
+</form>

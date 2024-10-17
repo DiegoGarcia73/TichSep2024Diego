@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="InstitutoTichModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="CatCursos">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="Int16" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="clave" Type="String" MaxLength="15" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="nombre" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="descripcion" Type="String" MaxLength="1000" FixedLength="false" Unicode="false" />
+    <Property Name="horas" Type="Byte" Nullable="false" />
+    <Property Name="idPreRequisito" Type="Int16" />
+    <Property Name="activo" Type="Boolean" Nullable="false" />
+    <NavigationProperty Name="CatCursos1" Relationship="Self.FK_CatCursos_CatCursos" FromRole="CatCursos" ToRole="CatCursos1" />
+    <NavigationProperty Name="CatCursos2" Relationship="Self.FK_CatCursos_CatCursos" FromRole="CatCursos1" ToRole="CatCursos" />
+    <NavigationProperty Name="Cursos" Relationship="Self.FK_Cursos_CatCursos" FromRole="CatCursos" ToRole="Cursos" />
+  </EntityType>
+  <EntityType Name="Cursos">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="Int16" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="idCatCurso" Type="Int16" />
+    <Property Name="fechaInicio" Type="DateTime" Precision="0" />
+    <Property Name="fechaTermino" Type="DateTime" Precision="0" />
+    <Property Name="activo" Type="Boolean" />
+    <NavigationProperty Name="CatCursos" Relationship="Self.FK_Cursos_CatCursos" FromRole="Cursos" ToRole="CatCursos" />
+  </EntityType>
+  <Association Name="FK_CatCursos_CatCursos">
+    <End Role="CatCursos" Type="Self.CatCursos" Multiplicity="0..1" />
+    <End Role="CatCursos1" Type="Self.CatCursos" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="CatCursos">
+        <PropertyRef Name="id" />
+      </Principal>
+      <Dependent Role="CatCursos1">
+        <PropertyRef Name="idPreRequisito" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Cursos_CatCursos">
+    <End Role="CatCursos" Type="Self.CatCursos" Multiplicity="0..1">
+      <OnDelete Action="Cascade" />
+    </End>
+    <End Role="Cursos" Type="Self.Cursos" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="CatCursos">
+        <PropertyRef Name="id" />
+      </Principal>
+      <Dependent Role="Cursos">
+        <PropertyRef Name="idCatCurso" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="InstitutoTichEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="CatCursos" EntityType="Self.CatCursos" />
+    <EntitySet Name="Cursos" EntityType="Self.Cursos" />
+    <AssociationSet Name="FK_CatCursos_CatCursos" Association="Self.FK_CatCursos_CatCursos">
+      <End Role="CatCursos" EntitySet="CatCursos" />
+      <End Role="CatCursos1" EntitySet="CatCursos" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Cursos_CatCursos" Association="Self.FK_Cursos_CatCursos">
+      <End Role="CatCursos" EntitySet="CatCursos" />
+      <End Role="Cursos" EntitySet="Cursos" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

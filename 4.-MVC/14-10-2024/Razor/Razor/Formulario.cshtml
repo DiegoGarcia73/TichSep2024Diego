@@ -1,0 +1,74 @@
+﻿@model RazorMVC.Models.Alumno
+@{
+    ViewBag.Title = "Formulario";
+}
+
+<h2>Formulario</h2>
+
+@using (Html.BeginForm())
+{
+    <div>
+        <h4>Alumnos</h4>
+        <hr />
+        <div class="form-group">
+            <div class="col-md-2">
+                @Html.LabelFor(m => m.id)
+            </div>
+
+            <div class="col-md-10">
+                @Html.TextBoxFor(m => m.id)
+            </div>
+        </div>
+
+        <div class="form-group">
+            <div class="col-md-2">
+                @Html.LabelFor(m => m.nombre)
+            </div>
+            <div class="col-md-10">
+                @Html.TextBoxFor(m => m.nombre)
+            </div>
+        </div>
+        <div class="form-group">
+            <div class="col-md-2">
+                @Html.LabelFor(m => m.idEstado)
+            </div>
+            <div class="col-md-10">
+                @Html.DropDownList("idEstado", new SelectList(ViewBag.estados, "id", "nombre"))
+            </div>
+        </div>
+    </div>
+}
+    @using (Html.BeginForm())
+    {
+
+        <div>
+            <h4>Alumnos</h4>
+            <hr />
+            <div class="form-group">
+                <div class="col-md-2">
+                    @Html.LabelFor(m => m.id)
+                </div>
+
+                <div class="col-md-10">
+                    @Html.EditorFor(m => m.id)
+                </div>
+            </div>
+            <div class="form-group">
+                <div class="col-md-2">
+                    @Html.LabelFor(m => m.nombre)
+                </div>
+                <div class="col-md-10">
+                    @Html.EditorFor(m => m.nombre)
+                </div>
+            </div>
+            <div class="form-group">
+                <div class="col-md-2">
+                    @Html.LabelFor(m => m.idEstado)
+                </div>
+                <div class="col-md-10">
+                    @Html.EditorFor(m => m.idEstado)
+                </div>
+            </div>
+        </div>
+
+    }

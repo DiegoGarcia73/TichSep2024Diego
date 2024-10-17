@@ -1,0 +1,23 @@
+﻿@model RazorMVC.Models.Alumno
+@{
+    ViewBag.Title = "AccesaModelo";
+}
+<h2>Accesa Modelo</h2>
+<h3>Html.Display</h3>
+<dl>
+    <dt>id</dt>
+    <dd>@Html.Display("id")</dd>
+    <dt>nombre</dt>
+    <dd>@Html.Display("nombre")</dd>
+    <dt>idEstado</dt>
+    <dd>@Html.Display("idEstado")</dd>
+</dl>
+<h3>Html.DisplayFor</h3>
+<dl>
+    <dt>id</dt>
+    <dd>@Html.DisplayFor(m => m.id)</dd>
+    <dt>@Html.DisplayNameFor(m => m.nombre)</dt>
+    <dd>@Html.DisplayFor(m => m.nombre)</dd>
+    <dt>@Html.DisplayNameFor(m => m.idEstado)</dt>
+    <dd>@Html.DisplayFor(m => m.idEstado)</dd>
+</dl>

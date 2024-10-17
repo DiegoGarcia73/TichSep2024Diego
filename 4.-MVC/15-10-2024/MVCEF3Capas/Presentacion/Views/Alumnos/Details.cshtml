@@ -1,0 +1,107 @@
+﻿@model Entidades.Alumnos
+
+@{
+    ViewBag.Title = "Details";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Datos del alumno</h2>
+
+<div>
+    <hr />
+    <dl class="row">
+        <dt class="col-sm-2 text-end">
+            @Html.DisplayNameFor(model => model.id)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model=>model.id)
+        </dd>
+        <dt class="col-sm-2 text-end">
+            @Html.DisplayNameFor(model => model.nombre)
+        </dt>
+
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.nombre)
+        </dd>
+
+        <dt class="col-sm-2 text-end">
+            @Html.DisplayNameFor(model => model.primerApellido)
+        </dt>
+
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.primerApellido)
+        </dd>
+
+        <dt class="col-sm-2 text-end">
+            @Html.DisplayNameFor(model => model.segundoApellido)
+        </dt>
+
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.segundoApellido)
+        </dd>
+
+        <dt class="col-sm-2 text-end">
+            @Html.DisplayNameFor(model => model.correo)
+        </dt>
+
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.correo)
+        </dd>
+
+        <dt class="col-sm-2 text-end">
+            @Html.DisplayNameFor(model => model.telefono)
+        </dt>
+
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.telefono)
+        </dd>
+
+        <dt class="col-sm-2 text-end">
+            @Html.DisplayNameFor(model => model.fechaNacimiento)
+        </dt>
+
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.fechaNacimiento)
+        </dd>
+
+        <dt class="col-sm-2 text-end">
+            @Html.DisplayNameFor(model => model.curp)
+        </dt>
+
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.curp)
+        </dd>
+
+        <dt class="col-sm-2 text-end">
+            @Html.DisplayNameFor(model => model.sueldo)
+        </dt>
+
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.sueldo)
+        </dd>
+
+        <dt class="col-sm-2 text-end">
+            @Html.DisplayNameFor(model => model.Estados)
+        </dt>
+
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Estados.nombre)
+        </dd>
+
+        <dt class="col-sm-2 text-end">
+            @Html.DisplayNameFor(model => model.EstatusAlumnos)
+        </dt>
+
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.EstatusAlumnos.Nombre)
+        </dd>
+
+    </dl>
+</div>
+<div>
+    <input id="btnCalcularIMSS" class="btn btn-primary" type="button" value="Calcular IMSS" onclick="CalcularIMSS()" />
+    <input id="btnCalcularISR" class="btn btn-primary" type="button" value="Calcular ISR" onclick="CalcularISR()" />
+</div>
+<p>
+    @Html.ActionLink("Regresar a la lista", "Index")
+</p>

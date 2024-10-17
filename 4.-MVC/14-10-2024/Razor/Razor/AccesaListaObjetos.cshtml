@@ -1,0 +1,38 @@
+﻿@using RazorMVC.Models
+@using System.Collections.Generic
+@model IEnumerable<Alumno>
+@{
+    ViewBag.Title = "AccesaListaObjetos";
+}
+
+<h2>AccesaListaObjetos</h2>
+
+<table>
+    <tr>
+        <th>
+            @Html.DisplayNameFor(m => m.id)
+        </th>
+        <th>
+            @Html.DisplayNameFor(m => m.nombre)
+        </th>
+        <th>
+            @Html.DisplayNameFor(m => m.idEstado)
+        </th>
+        <th></th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(m => item.id)
+            </td>
+            <td>
+                @Html.DisplayFor(m => item.nombre)
+            </td>
+            <td>
+                @Html.DisplayFor(m => item.idEstado)
+            </td>
+        </tr>
+    }
+</table>

@@ -1,0 +1,65 @@
+﻿@using MVC_Razor_ADO.Models;
+@model List<EstadoEstatus>
+
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+    var listaAlumnos = ViewBag.listaAlumnosEstadosEstatus;
+}
+
+<style>
+    table {
+        width: 100%;
+        border-collapse: collapse; /* Elimina el espacio entre los bordes */
+    }
+
+    th, td {
+        border: 1px solid black; /* Bordes en las celdas */
+        padding: 8px; /* Espacio dentro de las celdas */
+        text-align: left; /* Alineación de texto */
+    }
+
+    th {
+        background-color: #f2f2f2; /* Color de fondo para encabezados */
+    }
+
+    tr:nth-child(even) {
+        background-color: #f9f9f9; /* Color de fondo para filas pares */
+    }
+</style>
+<h2>Listado de Alumnos</h2>
+
+@Html.ActionLink("Agregar", "Create", null, htmlAttributes: new { @class = "btn btn-primary" })
+<table>
+    <tr>
+        <th>@Html.DisplayName("Id")</th>
+        <th>@Html.DisplayName("Nombre")</th>
+        <th>@Html.DisplayName("Primer apellido")</th>
+        <th>@Html.DisplayName("Segundo apellido")</th>
+        <th>@Html.DisplayName("Correo")</th>
+        <th>@Html.DisplayName("Telefono")</th>
+        <th>@Html.DisplayName("Estado")</th>
+        <th>@Html.DisplayName("Estatus")</th>
+        <th>@Html.DisplayName("Botón Detalles")</th>
+        <th>@Html.DisplayName("Botón Editar")</th>
+        <th>@Html.DisplayName("Botón Eliminar")</th>
+
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>@Html.DisplayFor(m => item.id)</td>
+            <td>@Html.DisplayFor(m => item.nombre)</td>
+            <td>@Html.DisplayFor(m => item.primerApellido) </td>
+            <td>@Html.DisplayFor(m => item.segundoApellido) </td>
+            <td>@Html.DisplayFor(m => item.correo)</td>
+            <td>@Html.DisplayFor(m => item.telefono)</td>
+            <td>@Html.DisplayFor(m => item.nombreEstado)</td>
+            <td>@Html.DisplayFor(m => item.nombreEstatus)</td>
+            <td>@Html.ActionLink("Detalles", "Details", new { @id = item.id }, htmlAttributes: new { @class = "btn btn-warning btn-sm" })</td>
+            <td>@Html.ActionLink("Editar", "Edit", new { @id = item.id }, htmlAttributes: new { @class = "btn btn-success btn-sm" })</td>
+            <td>@Html.ActionLink("Eliminar", "Delete", new { @id = item.id }, htmlAttributes: new { @class = "btn btn-danger btn-sm" })</td>
+        </tr>
+    }
+</table>

@@ -1,0 +1,118 @@
+﻿
+@{
+    ViewBag.Title = "LogicaBucles";
+}
+<h2>LogicaBucles</h2>
+
+<h3>Saludo dependiendo la hora - Parrafos fuera del bloque</h3>
+@{
+    var tipoSaludo = "";
+    if (DateTime.Now.Hour > 12)
+    { tipoSaludo = "Buenas tardes"; }
+    else
+    { tipoSaludo = "Buenos días"; }
+}
+
+<p>Hola @tipoSaludo</p>
+
+<h3>Saludo dependiendo la hora - Parrafos dentro del bloque</h3>
+
+@{
+    var OtrotipoSaludo = "";
+    if (DateTime.Now.Hour > 18)
+    { OtrotipoSaludo = "Buenas noches"; }
+    else if (DateTime.Now.Hour > 12)
+    { OtrotipoSaludo = "Buenos tardes"; }
+    else { OtrotipoSaludo = "Buenos días"; }
+    <p>Mi otro saludo: @OtrotipoSaludo</p>
+}
+<h3>Convertir  día de la semana - switch - Parrafos dentro del bloque</h3>
+
+@{
+    var diaSemana = DateTime.Now.DayOfWeek.ToString();
+    var diaEspañol = "";
+
+    switch (diaSemana)
+    {
+        case "Monday":
+            diaEspañol = "Lunes";
+            break;
+        case "Saturday":
+            diaEspañol = "Sabado";
+            break;
+        case "Wendsday":
+            diaEspañol = "Miercoles";
+            break;
+        default:
+            diaEspañol = "Otro día";
+            break;
+    }
+
+    <p>El DateTime.Now.DayOfWeek es @diaSemana, El dia de la semana es : @diaEspañol</p>
+}
+@{ int suma = 0; }
+<h3>Parrafos formados dinámicamente - For</h3>
+@for (var i = 1; i <= 10; i++)
+{
+    var id = "p" + i.ToString();
+    <p id="@id">Párrafo con id: @id</p>
+    suma += i;
+}
+<p>La suma es @suma</p>
+
+<h3>Lista ordenada - Li formados dinámicamente - Foreach</h3>
+
+<ol>
+    @foreach (var variable in Request.ServerVariables)
+    {
+        <li>@variable</li>
+    }
+</ol>
+<h3>Alumnos - Arreglo - Foreach </h3>
+@{
+
+    string[] alumnos = { "Antonio", "Francisco", "Eli" };
+    foreach (var alumno in alumnos)
+    {
+        <p>@alumno</p>
+    }
+}
+<h3>Diccionario 1 - extracción Individual</h3>
+@{
+    var DiccionarioTerminos = new Dictionary<string, string>()
+{
+            {"Http","Es un protocolo de acceso ...."},
+            {"Clase","Es una plantilla para la creación de objetos..."},
+            {"HTML", "Es un lenguaje de marcado que se utiliza ..."}
+        };
+}
+<dl>
+    <dt>HTML</dt>
+    <dd>@DiccionarioTerminos["HTML"]</dd>
+    <dt>Clase</dt>
+    <dd>@DiccionarioTerminos["Clase"]</dd>
+    <dt>Http</dt>
+    <dd>@DiccionarioTerminos["Http"]</dd>
+</dl>
+<h3>Diccionario 2 - Uso del For</h3>
+@{
+    var VistaEstado = new Dictionary<string, string>();
+    VistaEstado["OAX"] = "Oaxaca";
+    VistaEstado["CDMX"] = "Ciudad de México";
+    VistaEstado["VER"] = "Veracruz";
+}
+<dl>
+    @for (int i = 0; i < VistaEstado.Count; i++)
+    {
+        <dt>@VistaEstado.ElementAt(i).Key</dt>
+        <dd>@VistaEstado.ElementAt(i).Value</dd>
+    }
+</dl>
+<h3>Diccionario 3 - Uso del Foreach</h3>
+<dl>
+    @foreach (var termino in DiccionarioTerminos)
+    {
+        <dt>@termino.Key</dt>
+        <dd>@termino.Value</dd>
+    }
+</dl>

@@ -1,0 +1,63 @@
+﻿@{
+    ViewBag.Title = "Ciclos";
+    int suma = 0;
+
+}
+
+<h2>Ciclos</h2>
+<h3>Suma de Enteros</h3>
+
+@{
+    <p id="p1">El parrafo con id: p1</p>
+    <p id="p2">El parrafo con id: p2</p>
+    <p id="p3">El parrafo con id: p3</p>
+    <p id="p4">El parrafo con id: p4</p>
+    <p id="p5">El parrafo con id: p5</p>
+    <p id="p6">El parrafo con id: p6</p>
+    <p id="p7">El parrafo con id: p7</p>
+    <p id="p8">El parrafo con id: p8</p>
+    <p id="p9">El parrafo con id: p9</p>
+    <p id="p10">El parrafo con id: p10</p>
+    for (int i = 0; i < 10; i++)
+    {
+
+        suma += i + 1;
+
+    }
+    <p>La suma es: @suma</p>
+}
+
+<h2>Diccionario</h2>
+
+@{
+    var Definiciones = new Dictionary<string, string>
+{
+        {"SQL", "Es un lenguaje de consultas estructurado, permite la manipulación y consulta de datos"},
+        {"C#", "Es un lenguaje de programación que usa el paradigma POO"},
+        {"JSON", "Es una forma de intercambiar datos de manera compacta entre servidores y aplicaciones" }
+    };
+
+}
+<h3>Definiciones</h3>
+<dl>
+    @foreach (var item in Definiciones)
+    {
+        <dd>@item.Key</dd>
+        <dt>@item.Value</dt>
+    }
+</dl>
+
+<h2>Variables del servidor</h2>
+@{
+    var serverVariables = Request.ServerVariables;
+}
+
+<ol>
+    @foreach (var key in serverVariables.AllKeys)
+    {
+        <li><em>@key:</em></li>
+    }
+
+</ol>
+
+

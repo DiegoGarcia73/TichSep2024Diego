@@ -1,0 +1,22 @@
+﻿@using HolaMundoMVC.Models;
+@{
+    ViewBag.Title = "About";
+}
+<main aria-labelledby="title">
+    <h2 id="title">@ViewBag.Title.</h2>
+    <h3>@ViewBag.Message</h3>
+    <h4>@ViewData["Mensaje"]</h4>
+    <h5>@ViewBag.Saludo</h5>
+
+
+    <p>Use this area to provide additional information.</p>
+    <dl>
+        @foreach (Estado edo in ViewBag.ListaEstados) 
+        {
+        <dt>@edo.id</dt>
+        <dd>@edo.nombre</dd>
+
+        }
+    </dl>
+
+</main>

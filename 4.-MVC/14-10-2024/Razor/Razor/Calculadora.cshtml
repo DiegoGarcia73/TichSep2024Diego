@@ -1,0 +1,37 @@
+﻿
+@{
+    ViewBag.Title = "Calculadora";
+}
+@{
+    var total = 0;
+    var totaltxt = "";
+    if (IsPost)
+    {
+        // Retrieve the numbers that the user entered.
+        var num1 = Request.Params["txtnum1"];
+        var num2 = Request.Params["txtnum2"];
+
+        // Convierte los string y los suma.
+        total = Convert.ToInt32(num1) + Convert.ToInt32(num2);
+        totaltxt = "Total = " + total;
+    }
+    else
+    {
+        totaltxt = "";
+    }
+}
+<h2>Calculadora</h2>
+<p>Introduzca dos número y oprima el botón <strong>Sumar</strong>.</p>
+<form action="" method="post">
+    <p>
+        <label for="num1">Primer número:</label>
+        <input type="text" name="txtnum1" />
+    </p>
+    <p>
+        <label for="num2">Segundo numero:</label>
+        <input type="text" name="txtnum2" />
+    </p>
+    <p><input type="submit" value="Sumar" /></p>
+</form>
+
+<p>@totaltxt</p>

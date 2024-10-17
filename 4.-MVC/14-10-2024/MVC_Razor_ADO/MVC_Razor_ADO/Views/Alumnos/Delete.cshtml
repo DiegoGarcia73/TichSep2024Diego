@@ -1,0 +1,85 @@
+﻿@model MVC_Razor_ADO.Models.EstadoEstatus
+@{
+    ViewBag.Title = "Delete";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div>
+    <h2>Eliminar Alumno</h2>
+    <h2>¿Está seguro que desea eliminar al alumno?</h2>
+
+    <dl class="row">
+        <dt class="col-sm-2 text-end">
+            @Html.DisplayName("Nombre")
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(m => m.nombre)
+        </dd>
+        <dt class="col-sm-2 text-end">
+            @Html.DisplayName("Primer Apellido")
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(m => m.primerApellido)
+        </dd>
+        <dt class="col-sm-2 text-end">
+            @Html.DisplayName("Segundo Apellido")
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(m => m.segundoApellido)
+        </dd>
+        <dt class="col-sm-2 text-end">
+            @Html.DisplayName("Correo")
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(m => m.correo)
+        </dd>
+        <dt class="col-sm-2 text-end">
+            @Html.DisplayName("Telefono")
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(m => m.telefono)
+        </dd>
+        <dt class="col-sm-2 text-end">
+            @Html.DisplayName("Fecha de Nacimiento")
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(m => m.fechaNacimiento)
+        </dd>
+        <dt class="col-sm-2 text-end">
+            @Html.DisplayName("Curp")
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(m => m.curp)
+        </dd>
+        <dt class="col-sm-2 text-end">
+            @Html.DisplayName("Sueldo")
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(m => m.sueldo)
+        </dd>
+        <dt class="col-sm-2 text-end">
+            @Html.DisplayName("Id Estado Origen")
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(m => m.nombreEstado)
+        </dd>
+        <dt class="col-sm-2 text-end">
+            @Html.DisplayName("Id Estatus")
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(m => m.nombreEstatus)
+        </dd>
+    </dl>
+    <div class="col-md-2">
+        <form asp-action="Delete" method="post">
+            <input type="hidden" asp-for="id" />
+            <input id="btnEliminar " type="submit" value="Eliminar" class="btn btn-secondary" />
+        </form>
+    </div>
+    <div>
+        @Html.ActionLink("Volver a la lista", "Index")
+    </div>
+
+
+
+</div>

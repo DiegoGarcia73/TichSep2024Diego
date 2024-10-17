@@ -1,0 +1,147 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\DIEGO\\Documents\\Bootcamp_TICH_SEP_2024\\MVC\\Semana 4\\14-10-2024\\HolaMundoMVC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F2A9A073-A1E9-496F-A17E-A067CBA15508}|HolaMundoMVC\\HolaMundoMVC.csproj|c:\\users\\diego\\documents\\bootcamp_tich_sep_2024\\mvc\\semana 4\\14-10-2024\\holamundomvc\\holamundomvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2A9A073-A1E9-496F-A17E-A067CBA15508}|HolaMundoMVC\\HolaMundoMVC.csproj|solutionrelative:holamundomvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2A9A073-A1E9-496F-A17E-A067CBA15508}|HolaMundoMVC\\HolaMundoMVC.csproj|c:\\users\\diego\\documents\\bootcamp_tich_sep_2024\\mvc\\semana 4\\14-10-2024\\holamundomvc\\holamundomvc\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F2A9A073-A1E9-496F-A17E-A067CBA15508}|HolaMundoMVC\\HolaMundoMVC.csproj|solutionrelative:holamundomvc\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2A9A073-A1E9-496F-A17E-A067CBA15508}|HolaMundoMVC\\HolaMundoMVC.csproj|c:\\users\\diego\\documents\\bootcamp_tich_sep_2024\\mvc\\semana 4\\14-10-2024\\holamundomvc\\holamundomvc\\views\\alumnos\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F2A9A073-A1E9-496F-A17E-A067CBA15508}|HolaMundoMVC\\HolaMundoMVC.csproj|solutionrelative:holamundomvc\\views\\alumnos\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2A9A073-A1E9-496F-A17E-A067CBA15508}|HolaMundoMVC\\HolaMundoMVC.csproj|c:\\users\\diego\\documents\\bootcamp_tich_sep_2024\\mvc\\semana 4\\14-10-2024\\holamundomvc\\holamundomvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F2A9A073-A1E9-496F-A17E-A067CBA15508}|HolaMundoMVC\\HolaMundoMVC.csproj|solutionrelative:holamundomvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2A9A073-A1E9-496F-A17E-A067CBA15508}|HolaMundoMVC\\HolaMundoMVC.csproj|c:\\users\\diego\\documents\\bootcamp_tich_sep_2024\\mvc\\semana 4\\14-10-2024\\holamundomvc\\holamundomvc\\models\\estado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2A9A073-A1E9-496F-A17E-A067CBA15508}|HolaMundoMVC\\HolaMundoMVC.csproj|solutionrelative:holamundomvc\\models\\estado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2A9A073-A1E9-496F-A17E-A067CBA15508}|HolaMundoMVC\\HolaMundoMVC.csproj|c:\\users\\diego\\documents\\bootcamp_tich_sep_2024\\mvc\\semana 4\\14-10-2024\\holamundomvc\\holamundomvc\\controllers\\alumnoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2A9A073-A1E9-496F-A17E-A067CBA15508}|HolaMundoMVC\\HolaMundoMVC.csproj|solutionrelative:holamundomvc\\controllers\\alumnoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2A9A073-A1E9-496F-A17E-A067CBA15508}|HolaMundoMVC\\HolaMundoMVC.csproj|c:\\users\\diego\\documents\\bootcamp_tich_sep_2024\\mvc\\semana 4\\14-10-2024\\holamundomvc\\holamundomvc\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F2A9A073-A1E9-496F-A17E-A067CBA15508}|HolaMundoMVC\\HolaMundoMVC.csproj|solutionrelative:holamundomvc\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Estado.cs",
+              "DocumentMoniker": "C:\\Users\\DIEGO\\Documents\\Bootcamp_TICH_SEP_2024\\MVC\\Semana 4\\14-10-2024\\HolaMundoMVC\\HolaMundoMVC\\Models\\Estado.cs",
+              "RelativeDocumentMoniker": "HolaMundoMVC\\Models\\Estado.cs",
+              "ToolTip": "C:\\Users\\DIEGO\\Documents\\Bootcamp_TICH_SEP_2024\\MVC\\Semana 4\\14-10-2024\\HolaMundoMVC\\HolaMundoMVC\\Models\\Estado.cs",
+              "RelativeToolTip": "HolaMundoMVC\\Models\\Estado.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T15:09:23.498Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Contact.cshtml",
+              "DocumentMoniker": "C:\\Users\\DIEGO\\Documents\\Bootcamp_TICH_SEP_2024\\MVC\\Semana 4\\14-10-2024\\HolaMundoMVC\\HolaMundoMVC\\Views\\Home\\Contact.cshtml",
+              "RelativeDocumentMoniker": "HolaMundoMVC\\Views\\Home\\Contact.cshtml",
+              "ToolTip": "C:\\Users\\DIEGO\\Documents\\Bootcamp_TICH_SEP_2024\\MVC\\Semana 4\\14-10-2024\\HolaMundoMVC\\HolaMundoMVC\\Views\\Home\\Contact.cshtml",
+              "RelativeToolTip": "HolaMundoMVC\\Views\\Home\\Contact.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-14T14:58:06.532Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\DIEGO\\Documents\\Bootcamp_TICH_SEP_2024\\MVC\\Semana 4\\14-10-2024\\HolaMundoMVC\\HolaMundoMVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "HolaMundoMVC\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\DIEGO\\Documents\\Bootcamp_TICH_SEP_2024\\MVC\\Semana 4\\14-10-2024\\HolaMundoMVC\\HolaMundoMVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "HolaMundoMVC\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABwAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-14T14:51:28.077Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\DIEGO\\Documents\\Bootcamp_TICH_SEP_2024\\MVC\\Semana 4\\14-10-2024\\HolaMundoMVC\\HolaMundoMVC\\Views\\Alumnos\\Index.cshtml",
+              "RelativeDocumentMoniker": "HolaMundoMVC\\Views\\Alumnos\\Index.cshtml",
+              "ToolTip": "C:\\Users\\DIEGO\\Documents\\Bootcamp_TICH_SEP_2024\\MVC\\Semana 4\\14-10-2024\\HolaMundoMVC\\HolaMundoMVC\\Views\\Alumnos\\Index.cshtml",
+              "RelativeToolTip": "HolaMundoMVC\\Views\\Alumnos\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-14T14:48:32.09Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\DIEGO\\Documents\\Bootcamp_TICH_SEP_2024\\MVC\\Semana 4\\14-10-2024\\HolaMundoMVC\\HolaMundoMVC\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "HolaMundoMVC\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\DIEGO\\Documents\\Bootcamp_TICH_SEP_2024\\MVC\\Semana 4\\14-10-2024\\HolaMundoMVC\\HolaMundoMVC\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "HolaMundoMVC\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T15:01:25.345Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "About.cshtml",
+              "DocumentMoniker": "C:\\Users\\DIEGO\\Documents\\Bootcamp_TICH_SEP_2024\\MVC\\Semana 4\\14-10-2024\\HolaMundoMVC\\HolaMundoMVC\\Views\\Home\\About.cshtml",
+              "RelativeDocumentMoniker": "HolaMundoMVC\\Views\\Home\\About.cshtml",
+              "ToolTip": "C:\\Users\\DIEGO\\Documents\\Bootcamp_TICH_SEP_2024\\MVC\\Semana 4\\14-10-2024\\HolaMundoMVC\\HolaMundoMVC\\Views\\Home\\About.cshtml",
+              "RelativeToolTip": "HolaMundoMVC\\Views\\Home\\About.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-14T15:01:47.033Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AlumnosController.cs",
+              "DocumentMoniker": "C:\\Users\\DIEGO\\Documents\\Bootcamp_TICH_SEP_2024\\MVC\\Semana 4\\14-10-2024\\HolaMundoMVC\\HolaMundoMVC\\Controllers\\AlumnosController.cs",
+              "RelativeDocumentMoniker": "HolaMundoMVC\\Controllers\\AlumnosController.cs",
+              "ToolTip": "C:\\Users\\DIEGO\\Documents\\Bootcamp_TICH_SEP_2024\\MVC\\Semana 4\\14-10-2024\\HolaMundoMVC\\HolaMundoMVC\\Controllers\\AlumnosController.cs",
+              "RelativeToolTip": "HolaMundoMVC\\Controllers\\AlumnosController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T14:47:18.74Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+﻿@{
+    ViewBag.Title = "Hola Mundo";
+    var Bienvenido = "Bienvenido";
+    var hoyEs = "Hoy es ";
+
+    var fechaActual = DateTime.Now;
+    string saludo;
+
+}
+<h2>Hola Mundo</h2>
+<p>@Bienvenido</p>
+<h1>@hoyEs: @fechaActual</h1>
+
+
+@{
+    var horaActual = DateTime.Now.Hour;
+
+    if (horaActual >= 05 && horaActual <= 12)
+    {
+        saludo = "Buenos días";
+    }
+    else if (horaActual >= 1 && horaActual <= 19)
+    {
+        saludo = "Buenas tardes";
+    }
+    else
+    {
+        saludo = "Buenas noches";
+    }
+}
+<p>@saludo</p>
+
+<!--@*Mostrar propiedades del objeto Request *@-->
+
+<h3>Propiedades del objeto Request</h3>
+<ul>
+    <li><strong>URL: </strong>@Request.Url</li>
+    <li><strong>FilePath: </strong>@Request.FilePath</li>
+    <li><strong>PathFisicoDelRecurso: </strong>@Request.PhysicalPath</li>
+    <li><strong>RequestType: </strong>@Request.RequestType</li>
+</ul>

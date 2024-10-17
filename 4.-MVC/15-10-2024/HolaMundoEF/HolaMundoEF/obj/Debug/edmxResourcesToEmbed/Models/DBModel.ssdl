@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="InstitutoTichModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="CatCursos">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="smallint" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="clave" Type="varchar" MaxLength="15" Nullable="false" />
+    <Property Name="nombre" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="descripcion" Type="varchar" MaxLength="1000" />
+    <Property Name="horas" Type="tinyint" Nullable="false" />
+    <Property Name="idPreRequisito" Type="smallint" />
+    <Property Name="activo" Type="bit" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Cursos">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="smallint" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="idCatCurso" Type="smallint" />
+    <Property Name="fechaInicio" Type="date" />
+    <Property Name="fechaTermino" Type="date" />
+    <Property Name="activo" Type="bit" />
+  </EntityType>
+  <Association Name="FK_CatCursos_CatCursos">
+    <End Role="CatCursos" Type="Self.CatCursos" Multiplicity="0..1" />
+    <End Role="CatCursos1" Type="Self.CatCursos" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="CatCursos">
+        <PropertyRef Name="id" />
+      </Principal>
+      <Dependent Role="CatCursos1">
+        <PropertyRef Name="idPreRequisito" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Cursos_CatCursos">
+    <End Role="CatCursos" Type="Self.CatCursos" Multiplicity="0..1">
+      <OnDelete Action="Cascade" />
+    </End>
+    <End Role="Cursos" Type="Self.Cursos" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="CatCursos">
+        <PropertyRef Name="id" />
+      </Principal>
+      <Dependent Role="Cursos">
+        <PropertyRef Name="idCatCurso" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="InstitutoTichModelStoreContainer">
+    <EntitySet Name="CatCursos" EntityType="Self.CatCursos" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Cursos" EntityType="Self.Cursos" Schema="dbo" store:Type="Tables" />
+    <AssociationSet Name="FK_CatCursos_CatCursos" Association="Self.FK_CatCursos_CatCursos">
+      <End Role="CatCursos" EntitySet="CatCursos" />
+      <End Role="CatCursos1" EntitySet="CatCursos" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Cursos_CatCursos" Association="Self.FK_Cursos_CatCursos">
+      <End Role="CatCursos" EntitySet="CatCursos" />
+      <End Role="Cursos" EntitySet="Cursos" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>
