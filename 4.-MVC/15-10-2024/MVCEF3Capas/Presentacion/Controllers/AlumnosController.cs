@@ -5,6 +5,7 @@ using System.Linq;
 using System.Web;
 using System.Web.Mvc;
 using Entidades;
+using Negocio.WCFAlumno;
 
 
 namespace Presentacion.Controllers
@@ -109,6 +110,17 @@ namespace Presentacion.Controllers
             {
                 return View();
             }
+        }
+
+        public ActionResult _AportacionesIMSS(int id)
+        {
+            AportacionesIMSS oIMSSAlumno = _nAlumnos.CalcularIMSS(id);
+            return PartialView(oIMSSAlumno);
+        }
+        public ActionResult _TablaISR(int id)
+        {
+           ItemTablaISR oISRAlumno = _nAlumnos.CalcularISR(id);
+           return PartialView(oISRAlumno);
         }
         public void CargarViewBags()
         {

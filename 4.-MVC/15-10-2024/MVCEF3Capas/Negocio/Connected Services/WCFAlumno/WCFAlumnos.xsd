@@ -3,7 +3,7 @@
   <xs:complexType name="AportacionesIMSS">
     <xs:sequence>
       <xs:element minOccurs="0" name="Cesantia" type="xs:decimal" />
-      <xs:element minOccurs="0" name="EnfermerdadMaternidad" type="xs:decimal" />
+      <xs:element minOccurs="0" name="EnfermedadMaternidad" type="xs:decimal" />
       <xs:element minOccurs="0" name="Infonavit" type="xs:decimal" />
       <xs:element minOccurs="0" name="InvalidezVida" type="xs:decimal" />
       <xs:element minOccurs="0" name="Retiro" type="xs:decimal" />
@@ -14,9 +14,9 @@
     <xs:sequence>
       <xs:element minOccurs="0" name="CuotaFija" type="xs:decimal" />
       <xs:element minOccurs="0" name="Excedente" type="xs:decimal" />
-      <xs:element minOccurs="0" name="Impuesto" type="xs:decimal" />
-      <xs:element minOccurs="0" name="LimInf" type="xs:decimal" />
-      <xs:element minOccurs="0" name="LimSup" type="xs:decimal" />
+      <xs:element minOccurs="0" name="ISR" type="xs:decimal" />
+      <xs:element minOccurs="0" name="LimiteInferior" type="xs:decimal" />
+      <xs:element minOccurs="0" name="LimiteSuperior" type="xs:decimal" />
       <xs:element minOccurs="0" name="Subsidio" type="xs:decimal" />
     </xs:sequence>
   </xs:complexType>

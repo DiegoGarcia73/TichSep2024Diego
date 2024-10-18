@@ -1,3 +1,5 @@
+C:\Users\DIEGO\Documents\Bootcamp_TICH_SEP_2024\MVC\Semana 4\15-10-2024\MVCEF3Capas\Negocio\obj\Debug\Negocio.csproj.AssemblyReference.cache
+C:\Users\DIEGO\Documents\Bootcamp_TICH_SEP_2024\MVC\Semana 4\15-10-2024\MVCEF3Capas\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
 C:\Users\DIEGO\Documents\Bootcamp_TICH_SEP_2024\MVC\Semana 4\15-10-2024\MVCEF3Capas\Negocio\bin\Debug\Negocio.dll.config
 C:\Users\DIEGO\Documents\Bootcamp_TICH_SEP_2024\MVC\Semana 4\15-10-2024\MVCEF3Capas\Negocio\bin\Debug\Negocio.dll
 C:\Users\DIEGO\Documents\Bootcamp_TICH_SEP_2024\MVC\Semana 4\15-10-2024\MVCEF3Capas\Negocio\bin\Debug\Negocio.pdb
@@ -18,6 +20,7 @@ C:\Users\DIEGO\Documents\Bootcamp_TICH_SEP_2024\MVC\Semana 4\15-10-2024\MVCEF3Ca
 C:\Users\DIEGO\Documents\Bootcamp_TICH_SEP_2024\MVC\Semana 4\15-10-2024\MVCEF3Capas\Negocio\bin\Debug\Microsoft.IdentityModel.Protocols.dll
 C:\Users\DIEGO\Documents\Bootcamp_TICH_SEP_2024\MVC\Semana 4\15-10-2024\MVCEF3Capas\Negocio\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
 C:\Users\DIEGO\Documents\Bootcamp_TICH_SEP_2024\MVC\Semana 4\15-10-2024\MVCEF3Capas\Negocio\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Users\DIEGO\Documents\Bootcamp_TICH_SEP_2024\MVC\Semana 4\15-10-2024\MVCEF3Capas\Negocio\bin\Debug\Newtonsoft.Json.dll
 C:\Users\DIEGO\Documents\Bootcamp_TICH_SEP_2024\MVC\Semana 4\15-10-2024\MVCEF3Capas\Negocio\bin\Debug\System.Buffers.dll
 C:\Users\DIEGO\Documents\Bootcamp_TICH_SEP_2024\MVC\Semana 4\15-10-2024\MVCEF3Capas\Negocio\bin\Debug\System.Configuration.ConfigurationManager.dll
 C:\Users\DIEGO\Documents\Bootcamp_TICH_SEP_2024\MVC\Semana 4\15-10-2024\MVCEF3Capas\Negocio\bin\Debug\System.Diagnostics.DiagnosticSource.dll
@@ -55,6 +58,7 @@ C:\Users\DIEGO\Documents\Bootcamp_TICH_SEP_2024\MVC\Semana 4\15-10-2024\MVCEF3Ca
 C:\Users\DIEGO\Documents\Bootcamp_TICH_SEP_2024\MVC\Semana 4\15-10-2024\MVCEF3Capas\Negocio\bin\Debug\Microsoft.IdentityModel.Protocols.xml
 C:\Users\DIEGO\Documents\Bootcamp_TICH_SEP_2024\MVC\Semana 4\15-10-2024\MVCEF3Capas\Negocio\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
 C:\Users\DIEGO\Documents\Bootcamp_TICH_SEP_2024\MVC\Semana 4\15-10-2024\MVCEF3Capas\Negocio\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\Users\DIEGO\Documents\Bootcamp_TICH_SEP_2024\MVC\Semana 4\15-10-2024\MVCEF3Capas\Negocio\bin\Debug\Newtonsoft.Json.xml
 C:\Users\DIEGO\Documents\Bootcamp_TICH_SEP_2024\MVC\Semana 4\15-10-2024\MVCEF3Capas\Negocio\bin\Debug\System.Buffers.xml
 C:\Users\DIEGO\Documents\Bootcamp_TICH_SEP_2024\MVC\Semana 4\15-10-2024\MVCEF3Capas\Negocio\bin\Debug\System.Configuration.ConfigurationManager.xml
 C:\Users\DIEGO\Documents\Bootcamp_TICH_SEP_2024\MVC\Semana 4\15-10-2024\MVCEF3Capas\Negocio\bin\Debug\System.Diagnostics.DiagnosticSource.xml
@@ -82,8 +86,6 @@ C:\Users\DIEGO\Documents\Bootcamp_TICH_SEP_2024\MVC\Semana 4\15-10-2024\MVCEF3Ca
 C:\Users\DIEGO\Documents\Bootcamp_TICH_SEP_2024\MVC\Semana 4\15-10-2024\MVCEF3Capas\Negocio\bin\Debug\ru\Microsoft.Data.SqlClient.resources.dll
 C:\Users\DIEGO\Documents\Bootcamp_TICH_SEP_2024\MVC\Semana 4\15-10-2024\MVCEF3Capas\Negocio\bin\Debug\zh-Hans\Microsoft.Data.SqlClient.resources.dll
 C:\Users\DIEGO\Documents\Bootcamp_TICH_SEP_2024\MVC\Semana 4\15-10-2024\MVCEF3Capas\Negocio\bin\Debug\zh-Hant\Microsoft.Data.SqlClient.resources.dll
-C:\Users\DIEGO\Documents\Bootcamp_TICH_SEP_2024\MVC\Semana 4\15-10-2024\MVCEF3Capas\Negocio\obj\Debug\Negocio.csproj.AssemblyReference.cache
-C:\Users\DIEGO\Documents\Bootcamp_TICH_SEP_2024\MVC\Semana 4\15-10-2024\MVCEF3Capas\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
 C:\Users\DIEGO\Documents\Bootcamp_TICH_SEP_2024\MVC\Semana 4\15-10-2024\MVCEF3Capas\Negocio\obj\Debug\Negocio.csproj.Up2Date
 C:\Users\DIEGO\Documents\Bootcamp_TICH_SEP_2024\MVC\Semana 4\15-10-2024\MVCEF3Capas\Negocio\obj\Debug\Negocio.dll
 C:\Users\DIEGO\Documents\Bootcamp_TICH_SEP_2024\MVC\Semana 4\15-10-2024\MVCEF3Capas\Negocio\obj\Debug\Negocio.pdb

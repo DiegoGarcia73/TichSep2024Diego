@@ -27,7 +27,7 @@
     <Key>
       <PropertyRef Name="id" />
     </Key>
-    <Property Name="id" Type="smallint" Nullable="false" />
+    <Property Name="id" Type="smallint" StoreGeneratedPattern="Identity" Nullable="false" />
     <Property Name="Clave" Type="char" MaxLength="10" Nullable="false" />
     <Property Name="Nombre" Type="varchar" MaxLength="100" Nullable="false" />
   </EntityType>

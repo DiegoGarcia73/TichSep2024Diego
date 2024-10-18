@@ -1,0 +1,111 @@
+﻿@model Entidades.Alumnos
+
+@{
+    ViewBag.Title = "Delete";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Eliminar Alumno</h2>
+
+<h3>¿Está seguro que desea eliminar al alumno?</h3>
+<div>
+    <h4>Alumnos</h4>
+    <hr />
+    <dl class="row">
+        <dt class="col-sm-2 text-end">
+            @Html.DisplayNameFor(model=>model.id)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model=>model.id)
+        </dd>
+        <dt class="col-sm-2 text-end">
+            @Html.DisplayNameFor(model => model.nombre)
+        </dt>
+
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.nombre)
+        </dd>
+
+        <dt class="col-sm-2 text-end">
+            @Html.DisplayNameFor(model => model.primerApellido)
+        </dt>
+
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.primerApellido)
+        </dd>
+
+        <dt class="col-sm-2 text-end">
+            @Html.DisplayNameFor(model => model.segundoApellido)
+        </dt>
+
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.segundoApellido)
+        </dd>
+
+        <dt class="col-sm-2 text-end">
+            @Html.DisplayNameFor(model => model.correo)
+        </dt>
+
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.correo)
+        </dd>
+
+        <dt class="col-sm-2 text-end">
+            @Html.DisplayNameFor(model => model.telefono)
+        </dt>
+
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.telefono)
+        </dd>
+
+        <dt class="col-sm-2 text-end">
+            @Html.DisplayNameFor(model => model.fechaNacimiento)
+        </dt>
+
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.fechaNacimiento)
+        </dd>
+
+        <dt class="col-sm-2 text-end">
+            @Html.DisplayNameFor(model => model.curp)
+        </dt>
+
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.curp)
+        </dd>
+
+        <dt class="col-sm-2 text-end">
+            @Html.DisplayNameFor(model => model.sueldo)
+        </dt>
+
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.sueldo)
+        </dd>
+
+        <dt class="col-sm-2 text-end">
+            @Html.DisplayNameFor(model => model.idEstadoOrigen)
+        </dt>
+
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Estados.nombre)
+        </dd>
+
+        <dt class="col-sm-2 text-end">
+            @Html.DisplayNameFor(model => model.idEstatus)
+        </dt>
+
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.EstatusAlumnos.Nombre)
+        </dd>
+
+    </dl>
+
+    @using (Html.BeginForm()) {
+        @Html.AntiForgeryToken()
+
+<div class="form-actions no-color">
+    <input type="submit" value="Eliminar" class="btn btn-danger" />  |
+    @Html.ActionLink("Volver a la lista", "Index")
+</div>
+    }
+</div>

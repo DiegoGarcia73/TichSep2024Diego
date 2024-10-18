@@ -26,7 +26,7 @@ namespace Negocio.WCFAlumno {
         private decimal CesantiaField;
         
         [System.Runtime.Serialization.OptionalFieldAttribute()]
-        private decimal EnfermerdadMaternidadField;
+        private decimal EnfermedadMaternidadField;
         
         [System.Runtime.Serialization.OptionalFieldAttribute()]
         private decimal InfonavitField;
@@ -61,14 +61,14 @@ namespace Negocio.WCFAlumno {
         }
         
         [System.Runtime.Serialization.DataMemberAttribute()]
-        public decimal EnfermerdadMaternidad {
+        public decimal EnfermedadMaternidad {
             get {
-                return this.EnfermerdadMaternidadField;
+                return this.EnfermedadMaternidadField;
             }
             set {
-                if ((this.EnfermerdadMaternidadField.Equals(value) != true)) {
-                    this.EnfermerdadMaternidadField = value;
-                    this.RaisePropertyChanged("EnfermerdadMaternidad");
+                if ((this.EnfermedadMaternidadField.Equals(value) != true)) {
+                    this.EnfermedadMaternidadField = value;
+                    this.RaisePropertyChanged("EnfermedadMaternidad");
                 }
             }
         }
@@ -138,13 +138,13 @@ namespace Negocio.WCFAlumno {
         private decimal ExcedenteField;
         
         [System.Runtime.Serialization.OptionalFieldAttribute()]
-        private decimal ImpuestoField;
+        private decimal ISRField;
         
         [System.Runtime.Serialization.OptionalFieldAttribute()]
-        private decimal LimInfField;
+        private decimal LimiteInferiorField;
         
         [System.Runtime.Serialization.OptionalFieldAttribute()]
-        private decimal LimSupField;
+        private decimal LimiteSuperiorField;
         
         [System.Runtime.Serialization.OptionalFieldAttribute()]
         private decimal SubsidioField;
@@ -186,40 +186,40 @@ namespace Negocio.WCFAlumno {
         }
         
         [System.Runtime.Serialization.DataMemberAttribute()]
-        public decimal Impuesto {
+        public decimal ISR {
             get {
-                return this.ImpuestoField;
+                return this.ISRField;
             }
             set {
-                if ((this.ImpuestoField.Equals(value) != true)) {
-                    this.ImpuestoField = value;
-                    this.RaisePropertyChanged("Impuesto");
+                if ((this.ISRField.Equals(value) != true)) {
+                    this.ISRField = value;
+                    this.RaisePropertyChanged("ISR");
                 }
             }
         }
         
         [System.Runtime.Serialization.DataMemberAttribute()]
-        public decimal LimInf {
+        public decimal LimiteInferior {
             get {
-                return this.LimInfField;
+                return this.LimiteInferiorField;
             }
             set {
-                if ((this.LimInfField.Equals(value) != true)) {
-                    this.LimInfField = value;
-                    this.RaisePropertyChanged("LimInf");
+                if ((this.LimiteInferiorField.Equals(value) != true)) {
+                    this.LimiteInferiorField = value;
+                    this.RaisePropertyChanged("LimiteInferior");
                 }
             }
         }
         
         [System.Runtime.Serialization.DataMemberAttribute()]
-        public decimal LimSup {
+        public decimal LimiteSuperior {
             get {
-                return this.LimSupField;
+                return this.LimiteSuperiorField;
             }
             set {
-                if ((this.LimSupField.Equals(value) != true)) {
-                    this.LimSupField = value;
-                    this.RaisePropertyChanged("LimSup");
+                if ((this.LimiteSuperiorField.Equals(value) != true)) {
+                    this.LimiteSuperiorField = value;
+                    this.RaisePropertyChanged("LimiteSuperior");
                 }
             }
         }

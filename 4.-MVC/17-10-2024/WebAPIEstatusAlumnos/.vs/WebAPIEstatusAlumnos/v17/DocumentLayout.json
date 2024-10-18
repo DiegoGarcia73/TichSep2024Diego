@@ -1,0 +1,79 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\DIEGO\\Documents\\Bootcamp_TICH_SEP_2024\\MVC\\Semana 4\\17-10-2024\\WebAPIEstatusAlumnos\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5570B764-C104-4A4E-A324-3CF023153C0F}|WebAPIEstatusAlumnos\\WebAPIEstatusAlumnos.csproj|c:\\users\\diego\\documents\\bootcamp_tich_sep_2024\\mvc\\semana 4\\17-10-2024\\webapiestatusalumnos\\webapiestatusalumnos\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5570B764-C104-4A4E-A324-3CF023153C0F}|WebAPIEstatusAlumnos\\WebAPIEstatusAlumnos.csproj|solutionrelative:webapiestatusalumnos\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5570B764-C104-4A4E-A324-3CF023153C0F}|WebAPIEstatusAlumnos\\WebAPIEstatusAlumnos.csproj|c:\\users\\diego\\documents\\bootcamp_tich_sep_2024\\mvc\\semana 4\\17-10-2024\\webapiestatusalumnos\\webapiestatusalumnos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5570B764-C104-4A4E-A324-3CF023153C0F}|WebAPIEstatusAlumnos\\WebAPIEstatusAlumnos.csproj|solutionrelative:webapiestatusalumnos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5570B764-C104-4A4E-A324-3CF023153C0F}|WebAPIEstatusAlumnos\\WebAPIEstatusAlumnos.csproj|c:\\users\\diego\\documents\\bootcamp_tich_sep_2024\\mvc\\semana 4\\17-10-2024\\webapiestatusalumnos\\webapiestatusalumnos\\models\\context\\estatuscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5570B764-C104-4A4E-A324-3CF023153C0F}|WebAPIEstatusAlumnos\\WebAPIEstatusAlumnos.csproj|solutionrelative:webapiestatusalumnos\\models\\context\\estatuscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\DIEGO\\Documents\\Bootcamp_TICH_SEP_2024\\MVC\\Semana 4\\17-10-2024\\WebAPIEstatusAlumnos\\WebAPIEstatusAlumnos\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "WebAPIEstatusAlumnos\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\DIEGO\\Documents\\Bootcamp_TICH_SEP_2024\\MVC\\Semana 4\\17-10-2024\\WebAPIEstatusAlumnos\\WebAPIEstatusAlumnos\\Properties\\launchSettings.json",
+              "RelativeToolTip": "WebAPIEstatusAlumnos\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-18T15:31:36.082Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EstatusContext.cs",
+              "DocumentMoniker": "C:\\Users\\DIEGO\\Documents\\Bootcamp_TICH_SEP_2024\\MVC\\Semana 4\\17-10-2024\\WebAPIEstatusAlumnos\\WebAPIEstatusAlumnos\\Models\\Context\\EstatusContext.cs",
+              "RelativeDocumentMoniker": "WebAPIEstatusAlumnos\\Models\\Context\\EstatusContext.cs",
+              "ToolTip": "C:\\Users\\DIEGO\\Documents\\Bootcamp_TICH_SEP_2024\\MVC\\Semana 4\\17-10-2024\\WebAPIEstatusAlumnos\\WebAPIEstatusAlumnos\\Models\\Context\\EstatusContext.cs",
+              "RelativeToolTip": "WebAPIEstatusAlumnos\\Models\\Context\\EstatusContext.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwBQAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T15:27:00.66Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\DIEGO\\Documents\\Bootcamp_TICH_SEP_2024\\MVC\\Semana 4\\17-10-2024\\WebAPIEstatusAlumnos\\WebAPIEstatusAlumnos\\Program.cs",
+              "RelativeDocumentMoniker": "WebAPIEstatusAlumnos\\Program.cs",
+              "ToolTip": "C:\\Users\\DIEGO\\Documents\\Bootcamp_TICH_SEP_2024\\MVC\\Semana 4\\17-10-2024\\WebAPIEstatusAlumnos\\WebAPIEstatusAlumnos\\Program.cs",
+              "RelativeToolTip": "WebAPIEstatusAlumnos\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T05:03:34.441Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

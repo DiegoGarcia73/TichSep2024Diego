@@ -1,0 +1,128 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\DIEGO\\Documents\\Bootcamp_TICH_SEP_2024\\MVC\\Semana 4\\17-10-2024\\MVCEF3Capas\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E7412378-1977-40B6-9836-5894E0E77DE7}|Presentacion\\Presentacion.csproj|C:\\Users\\DIEGO\\Documents\\Bootcamp_TICH_SEP_2024\\MVC\\Semana 4\\17-10-2024\\MVCEF3Capas\\presentacion\\views\\alumnos\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E7412378-1977-40B6-9836-5894E0E77DE7}|Presentacion\\Presentacion.csproj|solutionrelative:presentacion\\views\\alumnos\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7412378-1977-40B6-9836-5894E0E77DE7}|Presentacion\\Presentacion.csproj|C:\\Users\\DIEGO\\Documents\\Bootcamp_TICH_SEP_2024\\MVC\\Semana 4\\17-10-2024\\MVCEF3Capas\\presentacion\\views\\alumnos\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E7412378-1977-40B6-9836-5894E0E77DE7}|Presentacion\\Presentacion.csproj|solutionrelative:presentacion\\views\\alumnos\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7412378-1977-40B6-9836-5894E0E77DE7}|Presentacion\\Presentacion.csproj|C:\\Users\\DIEGO\\Documents\\Bootcamp_TICH_SEP_2024\\MVC\\Semana 4\\17-10-2024\\MVCEF3Capas\\presentacion\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E7412378-1977-40B6-9836-5894E0E77DE7}|Presentacion\\Presentacion.csproj|solutionrelative:presentacion\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7412378-1977-40B6-9836-5894E0E77DE7}|Presentacion\\Presentacion.csproj|c:\\users\\diego\\documents\\bootcamp_tich_sep_2024\\mvc\\semana 4\\17-10-2024\\mvcef3capas\\presentacion\\views\\alumnos\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E7412378-1977-40B6-9836-5894E0E77DE7}|Presentacion\\Presentacion.csproj|solutionrelative:presentacion\\views\\alumnos\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7412378-1977-40B6-9836-5894E0E77DE7}|Presentacion\\Presentacion.csproj|C:\\Users\\DIEGO\\Documents\\Bootcamp_TICH_SEP_2024\\MVC\\Semana 4\\17-10-2024\\MVCEF3Capas\\presentacion\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E7412378-1977-40B6-9836-5894E0E77DE7}|Presentacion\\Presentacion.csproj|solutionrelative:presentacion\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C1873F0-C9C4-4DB6-9683-57CF330DD896}|Negocio\\Negocio.csproj|C:\\Users\\DIEGO\\Documents\\Bootcamp_TICH_SEP_2024\\MVC\\Semana 4\\17-10-2024\\MVCEF3Capas\\negocio\\nalumno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C1873F0-C9C4-4DB6-9683-57CF330DD896}|Negocio\\Negocio.csproj|solutionrelative:negocio\\nalumno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\DIEGO\\Documents\\Bootcamp_TICH_SEP_2024\\MVC\\Semana 4\\17-10-2024\\MVCEF3Capas\\Presentacion\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Presentacion\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\DIEGO\\Documents\\Bootcamp_TICH_SEP_2024\\MVC\\Semana 4\\17-10-2024\\MVCEF3Capas\\Presentacion\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Presentacion\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-17T02:13:06.697Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\DIEGO\\Documents\\Bootcamp_TICH_SEP_2024\\MVC\\Semana 4\\17-10-2024\\MVCEF3Capas\\Presentacion\\Views\\Alumnos\\Index.cshtml",
+              "RelativeDocumentMoniker": "Presentacion\\Views\\Alumnos\\Index.cshtml",
+              "ToolTip": "C:\\Users\\DIEGO\\Documents\\Bootcamp_TICH_SEP_2024\\MVC\\Semana 4\\17-10-2024\\MVCEF3Capas\\Presentacion\\Views\\Alumnos\\Index.cshtml",
+              "RelativeToolTip": "Presentacion\\Views\\Alumnos\\Index.cshtml",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAAAG0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-17T01:23:15.441Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\DIEGO\\Documents\\Bootcamp_TICH_SEP_2024\\MVC\\Semana 4\\17-10-2024\\MVCEF3Capas\\Presentacion\\Views\\Alumnos\\Details.cshtml",
+              "RelativeDocumentMoniker": "Presentacion\\Views\\Alumnos\\Details.cshtml",
+              "ToolTip": "C:\\Users\\DIEGO\\Documents\\Bootcamp_TICH_SEP_2024\\MVC\\Semana 4\\17-10-2024\\MVCEF3Capas\\Presentacion\\Views\\Alumnos\\Details.cshtml",
+              "RelativeToolTip": "Presentacion\\Views\\Alumnos\\Details.cshtml",
+              "ViewState": "AgIAAFEAAAAAAAAAAAAAAGsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-17T01:36:16.459Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\DIEGO\\Documents\\Bootcamp_TICH_SEP_2024\\MVC\\Semana 4\\17-10-2024\\MVCEF3Capas\\Presentacion\\Views\\Alumnos\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Presentacion\\Views\\Alumnos\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\DIEGO\\Documents\\Bootcamp_TICH_SEP_2024\\MVC\\Semana 4\\17-10-2024\\MVCEF3Capas\\Presentacion\\Views\\Alumnos\\Delete.cshtml",
+              "RelativeToolTip": "Presentacion\\Views\\Alumnos\\Delete.cshtml",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAAAA0AAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-17T01:36:15.376Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\DIEGO\\Documents\\Bootcamp_TICH_SEP_2024\\MVC\\Semana 4\\17-10-2024\\MVCEF3Capas\\Presentacion\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Presentacion\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\DIEGO\\Documents\\Bootcamp_TICH_SEP_2024\\MVC\\Semana 4\\17-10-2024\\MVCEF3Capas\\Presentacion\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Presentacion\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-17T01:30:45.125Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "NAlumno.cs",
+              "DocumentMoniker": "C:\\Users\\DIEGO\\Documents\\Bootcamp_TICH_SEP_2024\\MVC\\Semana 4\\17-10-2024\\MVCEF3Capas\\Negocio\\NAlumno.cs",
+              "RelativeDocumentMoniker": "Negocio\\NAlumno.cs",
+              "ToolTip": "C:\\Users\\DIEGO\\Documents\\Bootcamp_TICH_SEP_2024\\MVC\\Semana 4\\17-10-2024\\MVCEF3Capas\\Negocio\\NAlumno.cs",
+              "RelativeToolTip": "Negocio\\NAlumno.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAnwBEAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T00:24:06.342Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
